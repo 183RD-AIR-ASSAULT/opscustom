@@ -21,7 +21,7 @@
  * Chestpack Loadout <ARRAY>
  *
  * Example:
- * [player] call boc_fnc_chestpackLoadout;
+ * [player] call OP183_boc_fnc_chestpackLoadout;
  *
  * Public: No
  */

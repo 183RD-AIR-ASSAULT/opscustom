@@ -202,10 +202,10 @@ This will result in the following keys expected:
 ## Framework events
 
 ```
-Event "tasks_taskCreated"
+Event "op183_tasks_taskCreated"
   Params
   - 0: Task config name <STRING>
-Event "tasks_taskStateChanged"
+Event "op183_tasks_taskStateChanged"
   Params
   - 0: Task config name <STRING>
   - 1: New task state <STRING>

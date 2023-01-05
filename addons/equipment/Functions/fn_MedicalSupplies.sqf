@@ -1,5 +1,5 @@
 /*
-Function: fnc_MedicalSupplies
+Function: OP183_fnc_MedicalSupplies
 
 Description:
  Used to configure basic container medical state.
@@ -11,8 +11,8 @@ Arguments:
 
 Examples:
  (begin example)
-  [this] call fnc_MedicalSupplies;
-  [this, "MERT", true] call fnc_MedicalSupplies;
+  [this] call OP183_fnc_MedicalSupplies;
+  [this, "MERT", true] call OP183_fnc_MedicalSupplies;
  (end)
 
 Author:
@@ -26,7 +26,7 @@ params [
  ["_purge", false]
 ];
 
-private _VarType = _container getVariable ["Equipment_Select", -1];
+private _VarType = _container getVariable ["OP183_Equipment_Select", -1];
 
 call {
  if (_VarType isEqualto 0) exitwith {_Type = "Limited"};
@@ -49,7 +49,7 @@ call {
     ["1Rnd_SmokePurple_Grenade_shell",2],
     ["1Rnd_SmokeBlue_Grenade_shell",2],
     ["1Rnd_SmokeOrange_Grenade_shell",2],
-    ["medbags_FirstAid", 4],
+    ["OP183_medbags_FirstAid", 4],
     ["ACE_EarPlugs", 4],
     ["ACE_Flashlight_MX991", 1],
     ["ToolKit", 1],
@@ -73,7 +73,7 @@ call {
     ["1Rnd_SmokePurple_Grenade_shell",2],
     ["1Rnd_SmokeBlue_Grenade_shell",2],
     ["1Rnd_SmokeOrange_Grenade_shell",2],
-    ["medbags_FirstAid", 4],
+    ["OP183_medbags_FirstAid", 4],
     ["ACE_EarPlugs", 4],
     ["ACE_Flashlight_MX991", 1],
     ["ToolKit", 1],
@@ -104,15 +104,15 @@ call {
     ["Chemlight_blue", 10],
     ["Chemlight_green", 10],
     ["Chemlight_red", 10],
-    ["medbags_DrugKit", 10],
-    ["medbags_FirstAid", 20],
+    ["op183_medbags_DrugKit", 10],
+    ["op183_medbags_FirstAid", 20],
     ["ACE_bodyBag", 8],
-    ["medbags_MedicKit", 8],
+    ["OP183_medbags_MedicKit", 8],
     ["Attachable_Helistretcher", 2],
     ["ACE_surgicalKit", 2],
-    ["Stethoscope", 2],
+    ["OP183_Stethoscope", 2],
     ["ACE_personalAidKit",8],
-    ["medbags_Trauma",1]
+    ["op183_medbags_Trauma",1]
    ];
   } else {
    _ContainerItems = [

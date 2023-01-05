@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * ["0:1"] call bft_fnc_showGroupDetails
+ * ["0:1"] call op183_bft_fnc_showGroupDetails
  *
  * Public: No
  */

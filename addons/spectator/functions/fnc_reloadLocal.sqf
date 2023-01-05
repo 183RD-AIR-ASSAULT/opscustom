@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * call spectator_fnc_reloadLocal
+ * call op183_spectator_fnc_reloadLocal
  *
  * Public: No
  */

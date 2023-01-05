@@ -14,15 +14,15 @@
  * call PDT_EnhancedNVG_fnc_getNvgEffect;
  */
 
-private _effectSelection = nvg_Effect;
-private _nvgBlacklist    = nvg_Blacklist; // nvg blacklist
+private _effectSelection = op183_nvg_Effect;
+private _nvgBlacklist    = op183_nvg_Blacklist; // nvg blacklist
 private _effect = [];
 
 if !((hmd player) in _nvgBlacklist) then {
   if !(_effectSelection isEqualTo "") then {
       _effect = (
       configFile >> "CfgEffects" >> format [
-          "%1%2", _effectSelection, ["", "Ace"] select nvg_ACE
+          "%1%2", _effectSelection, ["", "Ace"] select op183_nvg_ACE
       ]
     ) call BIS_fnc_returnConfigEntry;    // selected effect
   };

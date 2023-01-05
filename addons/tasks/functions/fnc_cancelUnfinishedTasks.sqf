@@ -10,7 +10,7 @@
  * 0: Successfully canceled unit's tasks <BOOL>
  *
  * Example:
- * [player] call tasks_fnc_cancelUnfinishedTasks
+ * [player] call op183_tasks_fnc_cancelUnfinishedTasks
  *
  * Public: Yes
  */

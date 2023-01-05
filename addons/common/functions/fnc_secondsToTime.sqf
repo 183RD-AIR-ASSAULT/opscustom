@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_secondsToTime
+ * Name: op183_common_fnc_secondsToTime
  * Author: Head
  *
  * Arguments:

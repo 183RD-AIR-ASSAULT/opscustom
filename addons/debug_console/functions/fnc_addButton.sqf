@@ -13,7 +13,7 @@
  * None
  *
  * Example:
- * [["Test", "This is a button"], {hint "Button was clicked"}] call debug_console_fnc_addButton
+ * [["Test", "This is a button"], {hint "Button was clicked"}] call op183_debug_console_fnc_addButton
  *
  * Public: Yes
  */

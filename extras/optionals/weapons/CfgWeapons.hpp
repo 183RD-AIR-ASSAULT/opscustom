@@ -5,7 +5,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "BadHabitz, Jonpas";
-        displayName = "[GHOST] MX (Black Camo)";
+        displayName = "[183RD] MX (Black Camo)";
         picture = QPATHTOF(UI\mx_blackcamo_ca.paa);
         hiddenSelections[] = {"camo1", "camo2"};
         hiddenSelectionsTextures[] = {
@@ -20,7 +20,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "BadHabitz, Jonpas";
-        displayName = "[GHOST] MX 3GL (Black Camo)";
+        displayName = "[183RD] MX 3GL (Black Camo)";
         picture = QPATHTOF(UI\mx_gl_blackcamo_ca.paa);
         hiddenSelections[] = {"camo1", "camo2"};
         hiddenSelectionsTextures[] = {
@@ -35,7 +35,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "Tyrone";
-        displayName = "[GHOST] Mk14 Mod 1 EBR (Anodised Black)";
+        displayName = "[183RD] Mk14 Mod 1 EBR (Anodised Black)";
         picture = QPATHTOF(UI\mk14_ebr_ca.paa);
         hiddenSelections[] = {"camo1", "camo2"};
         hiddenSelectionsTextures[] = {
@@ -49,7 +49,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "JoramD";
-        displayName = "[GHOST] Walther P99";
+        displayName = "[183RD] Walther P99";
         picture = QPATHTOF(UI\walther_p99_ca.paa);
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {QPATHTOF(data\walther_p99_co.paa)};
@@ -57,7 +57,7 @@ class CfgWeapons {
     };
 
     class GVAR(Walther_P99_Tan): GVAR(Walther_P99) {
-        displayName = "[GHOST] Walther P99 (Tan)";
+        displayName = "[183RD] Walther P99 (Tan)";
         picture = QPATHTOF(UI\walther_p99_tan_ca.paa);
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {QPATHTOF(data\walther_p99_tan_co.paa)};
@@ -69,7 +69,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "Kresky";
-        displayName = "[GHOST] MAAWS Mk4 Mod 1 (Black)";
+        displayName = "[183RD] MAAWS Mk4 Mod 1 (Black)";
         picture = QPATHTOF(UI\mraws_black_ca.paa);
         hiddenSelections[] = {"camo1", "camo2"};
         hiddenSelectionsTextures[] = {
@@ -84,7 +84,7 @@ class CfgWeapons {
         dlc = QUOTE(PREFIX);
         scope = 2;
         author = "Kresky";
-        displayName = "[GHOST] MAAWS Mk4 Mod 0 (Black)";
+        displayName = "[183RD] MAAWS Mk4 Mod 0 (Black)";
         picture = QPATHTOF(UI\mraws_black_rail_ca.paa);
         hiddenSelections[] = {"camo1", "camo2"};
         hiddenSelectionsTextures[] = {
@@ -197,5 +197,5 @@ class arifle_SPAR_03_snd_F: arifle_SPAR_03_base_F {
         QPATHTOF(data\arifle_SPAR_01_snd_F_01_CO.paa)
     };
 };
-    
+
 };

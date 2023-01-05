@@ -11,7 +11,7 @@
  * None
  *
  * Example:
- * [bob, ted] call respawn_fnc_onPlayerRespawn
+ * [bob, ted] call op183_respawn_fnc_onPlayerRespawn
  *
  * Public: No
  */

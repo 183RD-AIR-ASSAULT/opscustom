@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * call bft_fnc_createGroupMarkers
+ * call op183_bft_fnc_createGroupMarkers
  *
  * Public: No
  */
@@ -27,7 +27,7 @@ if !(GVAR(showGroupIcons)) exitWith {};
     _markerSize = [_x] call FUNC(getMarkerSize);
     _markerName = _x call BIS_fnc_netId;
     _markerText = groupId _x;
-    if (_x == group unit) then {
+    if (_x == group op183_unit) then {
         _markerPosition = (leader _x) modelToWorld [+5, +5, 0];
         _markerAlpha = 0.5;
 

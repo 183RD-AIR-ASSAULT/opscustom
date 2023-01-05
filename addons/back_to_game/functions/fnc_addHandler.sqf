@@ -14,7 +14,7 @@
  * [
  *     {_this getVariable ["ACE_hasEarPlugsIn", false]},
  *     {(_this select 0) setVariable ["ACE_hasEarPlugsIn", (_this select 1), true]}
- * ] call back_to_game_fnc_addHandler
+ * ] call op183_back_to_game_fnc_addHandler
  *
  * Public: No
  */

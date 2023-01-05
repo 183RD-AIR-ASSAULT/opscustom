@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name=">
+<Project name="OP183">
     <Package name="Bodybag">
-        <Key ID="STR_Bodybag_DestroyChance">
+        <Key ID="STR_OP183_Bodybag_DestroyChance">
             <English>Item Destroy Chance</English>
             <German>Wahrscheinlichkeit Gegenstand zu zerstören</German>
             <French>Chance de destruction d'objets</French>
         </Key>
-        <Key ID="STR_Bodybag_DestroyChanceDesc">
+        <Key ID="STR_OP183_Bodybag_DestroyChanceDesc">
             <English>Destroy chance of each item when placing a unit into a bodybag.</English>
             <German>Wahrscheinlichkeit eines jeden Gegenstandes zerstört zu werden, wenn eine Einheit in einen Leichensack gepackt wird.</German>
             <French>La chance de destruction de chaque objet quand une unité est placée dans un sac mortuaire.</French>

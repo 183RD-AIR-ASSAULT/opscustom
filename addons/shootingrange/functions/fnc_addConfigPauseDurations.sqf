@@ -14,7 +14,7 @@
  * None
  *
  * Example:
- * ["range", controller, [controller1, controller2], [1, 2, 3], [target1, target2]] call shootingrange_fnc_addConfigPauseDurations;
+ * ["range", controller, [controller1, controller2], [1, 2, 3], [target1, target2]] call op183_shootingrange_fnc_addConfigPauseDurations;
  *
  * Public: No
  */

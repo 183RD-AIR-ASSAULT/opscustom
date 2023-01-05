@@ -12,7 +12,7 @@
  * 0: Is task successfully finished? <BOOL>
  *
  * Example:
- * ["KnockHorse", "Canceled"] call tasks_fnc_finishTask
+ * ["KnockHorse", "Canceled"] call op183_tasks_fnc_finishTask
  *
  * Public: Yes
  */

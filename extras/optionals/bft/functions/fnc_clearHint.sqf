@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * call bft_fnc_clearHints
+ * call op183_bft_fnc_clearHints
  *
  * Public: No
  */

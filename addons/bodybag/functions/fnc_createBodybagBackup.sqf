@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [arrayOfStuff] call bodybag_fnc_createBodybagBackup
+ * [arrayOfStuff] call OP183_bodybag_fnc_createBodybagBackup
  *
  * Public: Yes
  */

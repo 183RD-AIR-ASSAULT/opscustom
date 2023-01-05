@@ -7,9 +7,9 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "main"
+            "op183_main"
         };
-        author = "Ghost";
+        author = "YonV";
         authors[] = {"veteran29", "YonV"};
         VERSION_CONFIG;
     };
@@ -17,7 +17,7 @@ class CfgPatches {
 
 class CfgMarkerClasses {
     class xmark_assets {
-        displayName="Ghost Markers";
+        displayName="183rd Markers";
     };
 };
 

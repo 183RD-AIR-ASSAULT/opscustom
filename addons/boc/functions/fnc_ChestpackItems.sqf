@@ -11,7 +11,7 @@
  * Items <ARRAY>
  *
  * Example:
- * [player] call boc_fnc_chestpackItems;
+ * [player] call OP183_boc_fnc_chestpackItems;
  *
  * Public: No
  */

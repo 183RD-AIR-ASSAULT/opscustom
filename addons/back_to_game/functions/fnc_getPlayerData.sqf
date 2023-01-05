@@ -13,7 +13,7 @@
  *  2: Destination <POSITION>
  *
  * Example:
- * [getPlayerUID player] call back_to_game_fnc_getPlayerData
+ * [getPlayerUID player] call op183_back_to_game_fnc_getPlayerData
  *
  * Public: No
  */

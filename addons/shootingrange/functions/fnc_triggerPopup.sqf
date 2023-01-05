@@ -11,7 +11,7 @@
  * None
  *
  * Example:
- * [target, 0] call shootingrange_fnc_triggerPopup;
+ * [target, 0] call op183_shootingrange_fnc_triggerPopup;
  *
  * Public: No
  */

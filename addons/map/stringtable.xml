@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name=">
+<Project name="OP183">
     <Package name="Map">
-        <Key ID="STR_Map_DisplayName">
-            <English>Ghost - Map</English>
-            <Polish>Ghost - Map</Polish>
+        <Key ID="STR_OP183_Map_DisplayName">
+            <English>183rd  - Map</English>
+            <Polish>183rd  - Map</Polish>
         </Key>
-        <Key ID="STR_Map_ColorRed">
+        <Key ID="STR_OP183_Map_ColorRed">
             <English>Red (Alpha)</English>
             <Polish>Czerwony (Alpha)</Polish>
         </Key>
-        <Key ID="STR_Map_ColorBlue">
+        <Key ID="STR_OP183_Map_ColorBlue">
             <English>Blue (Bravo)</English>
             <Polish>Niebieski (Bravo)</Polish>
         </Key>
-        <Key ID="STR_Map_ColorGreen">
+        <Key ID="STR_OP183_Map_ColorGreen">
             <English>Green (Charlie)</English>
             <Polish>Zielony (Charlie)</Polish>
         </Key>
-        <Key ID="STR_Map_ColorOrange">
+        <Key ID="STR_OP183_Map_ColorOrange">
             <English>Orange (Delta)</English>
             <Polish>Pomarańczowy (Delta)</Polish>
         </Key>
-        <Key ID="STR_Map_ColorPink">
+        <Key ID="STR_OP183_Map_ColorPink">
             <English>Pink (Support)</English>
             <Polish>Różowy (Wsparcie)</Polish>
         </Key>

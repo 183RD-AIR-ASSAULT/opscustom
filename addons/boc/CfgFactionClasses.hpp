@@ -1,7 +1,7 @@
 class CfgFactionClasses {
     class NO_CATEGORY;
-    class boc: NO_CATEGORY {
-        displayName = "Ghost BackpackOnChest";
+    class OP183_boc: NO_CATEGORY {
+        displayName = "183rd BackpackOnChest";
         priority = 2;
         side = 7;
     };

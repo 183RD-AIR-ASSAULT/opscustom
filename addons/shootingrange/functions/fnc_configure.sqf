@@ -16,7 +16,7 @@
  * Successfully Configured <BOOL>
  *
  * Example:
- * [controller, "Name", 1, [target1, target2], [invalidTarget1, invalidTarget2]] call shootingrange_fnc_configure;
+ * [controller, "Name", 1, [target1, target2], [invalidTarget1, invalidTarget2]] call op183_shootingrange_fnc_configure;
  *
  * Public: Yes
  */

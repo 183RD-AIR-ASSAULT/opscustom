@@ -10,12 +10,12 @@
  * None
  *
  * Example:
- * call bft_fnc_trackingUpdate
+ * call op183_bft_fnc_trackingUpdate
  *
  * Public: No
  */
 
-if ((isNil "unit") && (!alive onit)) exitWith {};
+if ((isNil "op183_unit") && (!alive op183_unit)) exitWith {};
 
 private ["_groupsToDrawMarkers", "_playerSide", "_friendlySides"];
 
@@ -25,7 +25,7 @@ private ["_groupsToDrawMarkers", "_playerSide", "_friendlySides"];
 
 GVAR(bftMarkers) = [];
 
-if (GVAR(requireItemGPS) && !([unit] call FUNC(hasGPSDevice))) exitWith {};
+if (GVAR(requireItemGPS) && !([op183_unit] call FUNC(hasGPSDevice))) exitWith {};
 
 _groupsToDrawMarkers = [];
 _playerSide = playerSide;
@@ -50,7 +50,7 @@ _groupsToDrawMarkers = _groupsToDrawMarkers select {!(_x getVariable [QGVAR(hide
 if !(GVAR(showOwnGroup)) then {
     _groupsToDrawMarkers = _groupsToDrawMarkers select {
         {
-            !(_x in (units (group unit)));
+            !(_x in (units (group op183_unit)));
         } count units _x > 0;
     };
 };

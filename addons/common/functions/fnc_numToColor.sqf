@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_numToColor
+ * Name: op183_common_fnc_numToColor
  * Author: Snippers
  *
  * Arguments:

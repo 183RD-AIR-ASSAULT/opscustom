@@ -3,10 +3,10 @@
   Description:
   Pre init method for CBA settings
 */
-// #define CBA_SETTINGS_CAT "Quick Actions"
+// #define CBA_SETTINGS_CAT "OP183 Quick Actions"
 
 [
-    "quickActions_add_detonator"
+    "OP183_quickActions_add_detonator"
     ,"CHECKBOX"
     ,["Add detonate action", "Adds the detonation quick action to detonate all placed explosives"]
     ,COMPONENT_NAME
@@ -15,7 +15,7 @@
 ] call CBA_Settings_fnc_init;
 
 [
-    "quickActions_add_fast_rope"
+    "OP183_quickActions_add_fast_rope"
     ,"CHECKBOX"
     ,["Add fast rope action", "Adds the fast rope action to the quick action menu to fast rope"]
     ,COMPONENT_NAME

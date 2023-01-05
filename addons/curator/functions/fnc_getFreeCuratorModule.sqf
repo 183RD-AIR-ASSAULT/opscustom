@@ -10,7 +10,7 @@
  * 0: Free curator module <OBJECT>
  *
  * Example:
- * call curator_fnc_getFreeCuratorModule
+ * call op183_curator_fnc_getFreeCuratorModule
  *
  * Public: No
  */

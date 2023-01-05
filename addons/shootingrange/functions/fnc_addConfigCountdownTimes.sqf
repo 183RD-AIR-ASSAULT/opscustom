@@ -14,7 +14,7 @@
  * None
  *
  * Example:
- * ["range", controller, [controller1, controller2], [6, 9], [target1, target2]] call shootingrange_fnc_addConfigCountdownTimes;
+ * ["range", controller, [controller1, controller2], [6, 9], [target1, target2]] call op183_shootingrange_fnc_addConfigCountdownTimes;
  *
  * Public: No
  */

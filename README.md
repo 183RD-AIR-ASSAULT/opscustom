@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="newlogo.png" width="480">
+    <img src="183ops_512.png">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
     <sup><strong>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a> and <a href="https://github.com/acemod/ACE3/releases">ACE3</a>.<br/></strong></sup>
 </p>
 
-# Ghost Custom Mod
+# 183rd Special Operations Custom Mod
 
 This is the custom mod for 183rd Special Ops
 Its based/inspired on/by the following projects;

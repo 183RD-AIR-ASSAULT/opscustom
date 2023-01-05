@@ -12,7 +12,7 @@
  * Nothing
  *
  * Example:
- * _this call boc_fnc_EHGetOut;
+ * _this call OP183_boc_fnc_EHGetOut;
  *
  * Public: No
  */

@@ -34,13 +34,13 @@ Public: Yes
 
 // [
 //     ["kat_IV_16","kat_aatKit","kat_accuvac","ACE_adenosine","kat_X_AED","kat_amiodarone","kat_CarbonateItem","kat_atropine","ACE_fieldDressing","ACE_elasticBandage","ACE_packingBandage","kat_AED","ACE_quikclot","kat_crossPanel","ACE_bloodIV","kat_bloodIV_O","kat_bloodIV_O_N","kat_bloodIV_A","kat_bloodIV_A_N","kat_bloodIV_AB","kat_bloodIV_AB_N","kat_bloodIV_B","kat_bloodIV_B_N","ACE_bloodIV_250","kat_bloodIV_O_250","kat_bloodIV_O_N_250","kat_bloodIV_A_250","kat_bloodIV_A_N_250","kat_bloodIV_AB_250","kat_bloodIV_AB_N_250","kat_bloodIV_B_250","kat_bloodIV_B_N_250","ACE_bloodIV_500","kat_bloodIV_O_500","kat_bloodIV_O_N_500","kat_bloodIV_A_500","kat_bloodIV_A_N_500","kat_bloodIV_AB_500","kat_bloodIV_AB_N_500","kat_bloodIV_B_500","kat_bloodIV_B_N_500","ACE_bodyBag","kat_plate","kat_chestSeal","kat_clamp","kat_vacuum","op183_medbags_DrugKit","kat_EACA","ACE_EarPlugs","ACE_epinephrine","kat_etomidate","kat_IO_FAST","kat_fentanyl","KAT_Empty_bloodIV_500","KAT_Empty_bloodIV_250","FirstAidKit","kat_flumazenil","kat_guedel","op183_medbags_FirstAid","kat_ketamine","kat_lidocaine","kat_lorazepam","op183_medbags_MedicKit","kat_naloxone","kat_nalbuphine","kat_nitroglycerin","kat_norepinephrine","kat_PainkillerItem","ACE_personalAidKit","kat_phenylephrine","ACE_plasmaIV","ACE_plasmaIV_250","ACE_plasmaIV_500","kat_Pulseoximeter","ACE_salineIV_500","ACE_salineIV_250","ACE_salineIV","kat_scalpel","ACE_splint","kat_stethoscope","ACE_surgicalKit","ACE_tourniquet","op183_medbags_Trauma","kat_TXA","kat_larynx"],
-//     "Ghost Medical",
+//     "183rd Medical",
 //     "\z\ace\addons\medical_gui\data\categories\medication.paa"
 // ] call ACEFUNC(arsenal,addRightPanelButton);
 
 [
     ["op183_medbags_DrugKit","op183_medbags_FirstAid","op183_medbags_MedicKit","op183_medbags_Trauma"],
-    "Ghost Medical",
+    "183rd Medical",
     "\z\ace\addons\medical_gui\data\categories\medication.paa"
 ] call ACEFUNC(arsenal,addRightPanelButton);
 

@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_isAdmin
+ * Name: op183_common_fnc_isAdmin
  * Author: Snippers
  *
  * Arguments:

@@ -7,7 +7,7 @@ ADDON = false;
 ADDON = true;
 // Flip Vehicle
 [
-    "Main_FlipVehicle",
+    "op183_Main_FlipVehicle",
     "CHECKBOX",
     ["Flip Vehicle", "Add an action to players to allow them to flip land vehicles."],
     COMPONENT_NAME,
@@ -21,7 +21,7 @@ ADDON = true;
 
 // TFAR - Range Multiplyer
 [
-    "Main_TFARTransmitRange",
+    "op183_Main_TFARTransmitRange",
     "SLIDER",
     ["TFAR - Range Multiplyer", "Increase or decrease max Transmit Range. 0.1 = poor range, 3.5 = All of Altis"],
     COMPONENT_NAME,
@@ -34,7 +34,7 @@ ADDON = true;
 
 // TFAR - Terrain Interference
 [
-    "Main_TFARTerrainInterference",
+    "op183_Main_TFARTerrainInterference",
     "SLIDER",
     ["TFAR - Terrain Interference", "How much Terrain interferes with range. 0.1 = little impact, 2.0 = large impact."],
     COMPONENT_NAME,
@@ -47,11 +47,11 @@ ADDON = true;
 
 
 
-// Main_DynamicSim
+// OP183_Main_DynamicSim
 [
-    "Main_DynamicSim",
+    "op183_Main_DynamicSim",
     "CHECKBOX",
-    ["Dynamic Sim", "Simple check for Dynamic Sim enabled. If not enabled it will enable it to default Oalues. "],
+    ["OP183 Dynamic Sim", "Simple check for Dynamic Sim enabled. If not enabled it will enable it to default OP183 Values. "],
     COMPONENT_NAME,
     false,
     true,
@@ -60,11 +60,11 @@ ADDON = true;
     }
 ] call CBA_fnc_addSetting;
 
-// Main_DynamicSim
+// OP183_Main_DynamicSim
 [
-    "Main_LockCamVehicle",
+    "op183_Main_LockCamVehicle",
     "CHECKBOX",
-    ["Lock Camera in Vehicle", "Locks the camera to first-person inside vehicles. If not enabled it will enable it to default Oalues. "],
+    ["OP183 Lock Camera in Vehicle", "Locks the camera to first-person inside vehicles. If not enabled it will enable it to default OP183 Values. "],
     COMPONENT_NAME,
     false,
     true,
@@ -76,7 +76,7 @@ ADDON = true;
 
 // Dynamic Groups
 [
-    "Main_DynamicGroups",
+    "op183_Main_DynamicGroups",
     "CHECKBOX",
     ["BIS Dynamic Groups", "Enable Vanilla Dynamic Groups system (U Menu)"],
     COMPONENT_NAME,

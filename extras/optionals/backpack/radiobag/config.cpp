@@ -1,13 +1,13 @@
 #include "..\script_component.hpp"
 
 class CfgPatches {
-    class backpack_RadioBag {
+    class op183_backpack_RadioBag {
         name = QUOTE(COMPONENT_NAME);
-        addonRootClass = "backpack";
+        addonRootClass = "op183_backpack";
         requiredVersion = REQUIRED_VERSION;
         requiredaddons[] = {
             "a3_supplies_f_enoch_bags",
-            "backpack"
+            "op183_backpack"
         };
         units[] = {
             QGVAR(RadioBag_01_BLACK),

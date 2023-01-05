@@ -1,6 +1,6 @@
 /*
  *	ARMA EXTENDED ENVIRONMENT
- *	\common\functions\diagnostics\fn_isDebug.sqf
+ *	\OP183_common\functions\diagnostics\fn_isDebug.sqf
  *	by Ojemineh
  *
  *	check if debug is enabled
@@ -12,12 +12,12 @@
  *	<BOOLEAN>
  *
  *	Example:
- *	[] call common_fnc_isDebug;
+ *	[] call OP183_common_fnc_isDebug;
  *
  */
 
 // -------------------------------------------------------------------------------------------------
 
-private _return = (missionNamespace getVariable ["debug_enabled", false]);
+private _return = (missionNamespace getVariable ["OP183_debug_enabled", false]);
 
 _return;

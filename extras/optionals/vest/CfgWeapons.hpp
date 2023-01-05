@@ -81,7 +81,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Carrier Special Rig";
+        displayName="[183RD] (Multicam) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam.paa)
         };
@@ -93,7 +93,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Carrier GL Rig";
+        displayName="[183RD] (Multicam) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam.paa)
         };
@@ -105,7 +105,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Carrier Lite";
+        displayName="[183RD] (Multicam) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_co.paa)
         };
@@ -117,7 +117,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Carrier Rig";
+        displayName="[183RD] (Multicam) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_co.paa)
         };
@@ -129,7 +129,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Slash Bandolier";
+        displayName="[183RD] (Multicam) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_co.paa)
         };
@@ -141,7 +141,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Carrier Lite (No belt)";
+        displayName="[183RD] (Multicam) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_co.paa)
         };
@@ -161,7 +161,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Carrier Special Rig";
+        displayName="[183RD] (Multicam Snow) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam_Snow.paa)
         };
@@ -173,7 +173,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Carrier GL Rig";
+        displayName="[183RD] (Multicam Snow) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam_Snow.paa)
         };
@@ -185,7 +185,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Carrier Lite";
+        displayName="[183RD] (Multicam Snow) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Snow_co.paa)
         };
@@ -197,7 +197,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Carrier Rig";
+        displayName="[183RD] (Multicam Snow) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Snow_co.paa)
         };
@@ -209,7 +209,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Slash Bandolier";
+        displayName="[183RD] (Multicam Snow) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Snow_co.paa)
         };
@@ -221,7 +221,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Carrier Lite (No belt)";
+        displayName="[183RD] (Multicam Snow) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Snow_co.paa)
         };
@@ -241,7 +241,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Carrier Special Rig";
+        displayName="[183RD] (Multicam Woodland) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam_Woodland.paa)
         };
@@ -253,7 +253,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Carrier GL Rig";
+        displayName="[183RD] (Multicam Woodland) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Multicam_Woodland.paa)
         };
@@ -265,7 +265,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Carrier Lite";
+        displayName="[183RD] (Multicam Woodland) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Woodland_co.paa)
         };
@@ -277,7 +277,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Carrier Rig";
+        displayName="[183RD] (Multicam Woodland) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Woodland_co.paa)
         };
@@ -289,7 +289,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Slash Bandolier";
+        displayName="[183RD] (Multicam Woodland) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Woodland_co.paa)
         };
@@ -301,7 +301,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Carrier Lite (No belt)";
+        displayName="[183RD] (Multicam Woodland) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Multicam_Woodland_co.paa)
         };
@@ -321,7 +321,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Carrier Special Rig";
+        displayName="[183RD] (Black) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Black.paa)
         };
@@ -333,7 +333,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Carrier GL Rig";
+        displayName="[183RD] (Black) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Black.paa)
         };
@@ -345,7 +345,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Carrier Lite";
+        displayName="[183RD] (Black) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Black_co.paa)
         };
@@ -357,7 +357,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Carrier Rig";
+        displayName="[183RD] (Black) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Black_co.paa)
         };
@@ -369,7 +369,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Slash Bandolier";
+        displayName="[183RD] (Black) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Black_co.paa)
         };
@@ -381,7 +381,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Carrier Lite (No belt)";
+        displayName="[183RD] (Black) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Black_co.paa)
         };
@@ -401,7 +401,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Carrier Special Rig";
+        displayName="[183RD] (Coyote) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_CoyoteBrown.paa)
         };
@@ -413,7 +413,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Carrier GL Rig";
+        displayName="[183RD] (Coyote) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_CoyoteBrown.paa)
         };
@@ -425,7 +425,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Carrier Lite";
+        displayName="[183RD] (Coyote) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_CoyoteBrown_co.paa)
         };
@@ -437,7 +437,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Carrier Rig";
+        displayName="[183RD] (Coyote) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_CoyoteBrown_co.paa)
         };
@@ -449,7 +449,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Slash Bandolier";
+        displayName="[183RD] (Coyote) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_CoyoteBrown_co.paa)
         };
@@ -461,7 +461,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Carrier Lite (No belt)";
+        displayName="[183RD] (Coyote) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_CoyoteBrown_co.paa)
         };
@@ -481,7 +481,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Carrier Special Rig";
+        displayName="[183RD] (Ranger Green) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Ranger_Green.paa)
         };
@@ -493,7 +493,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Carrier GL Rig";
+        displayName="[183RD] (Ranger Green) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Ranger_Green.paa)
         };
@@ -505,7 +505,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Carrier Lite";
+        displayName="[183RD] (Ranger Green) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Ranger_Green_co.paa)
         };
@@ -517,7 +517,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Carrier Rig";
+        displayName="[183RD] (Ranger Green) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Ranger_Green_co.paa)
         };
@@ -529,7 +529,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Slash Bandolier";
+        displayName="[183RD] (Ranger Green) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Ranger_Green_co.paa)
         };
@@ -541,7 +541,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Carrier Lite (No belt)";
+        displayName="[183RD] (Ranger Green) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Ranger_Green_co.paa)
         };
@@ -561,7 +561,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Carrier Special Rig";
+        displayName="[183RD] (Tigerstripe) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_Tigerstripe.paa)
         };
@@ -573,7 +573,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Carrier GL Rig";
+        displayName="[183RD] (Tigerstripe) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_Tigerstripe.paa)
         };
@@ -585,7 +585,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Carrier Lite";
+        displayName="[183RD] (Tigerstripe) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_Tigerstripe_co.paa)
         };
@@ -597,7 +597,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Carrier Rig";
+        displayName="[183RD] (Tigerstripe) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_Tigerstripe_co.paa)
         };
@@ -609,7 +609,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Slash Bandolier";
+        displayName="[183RD] (Tigerstripe) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_Tigerstripe_co.paa)
         };
@@ -621,7 +621,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Carrier Lite (No belt)";
+        displayName="[183RD] (Tigerstripe) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_Tigerstripe_co.paa)
         };
@@ -641,7 +641,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Carrier Special Rig";
+        displayName="[183RD] (Olive) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Olive.paa)
         };
@@ -653,7 +653,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Carrier GL Rig";
+        displayName="[183RD] (Olive) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Olive.paa)
         };
@@ -665,7 +665,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Carrier Lite";
+        displayName="[183RD] (Olive) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Olive_co.paa)
         };
@@ -677,7 +677,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Carrier Rig";
+        displayName="[183RD] (Olive) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Olive_co.paa)
         };
@@ -689,7 +689,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Slash Bandolier";
+        displayName="[183RD] (Olive) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Olive_co.paa)
         };
@@ -701,7 +701,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Carrier Lite (No belt)";
+        displayName="[183RD] (Olive) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Olive_co.paa)
         };
@@ -721,7 +721,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Carrier Special Rig";
+        displayName="[183RD] (Tan) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Tan.paa)
         };
@@ -733,7 +733,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Carrier GL Rig";
+        displayName="[183RD] (Tan) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_Tan.paa)
         };
@@ -745,7 +745,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Carrier Lite";
+        displayName="[183RD] (Tan) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Tan_co.paa)
         };
@@ -757,7 +757,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Carrier Rig";
+        displayName="[183RD] (Tan) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Tan_co.paa)
         };
@@ -769,7 +769,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Slash Bandolier";
+        displayName="[183RD] (Tan) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Tan_co.paa)
         };
@@ -781,7 +781,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Carrier Lite (No belt)";
+        displayName="[183RD] (Tan) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_Tan_co.paa)
         };
@@ -801,7 +801,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Carrier Special Rig";
+        displayName="[183RD] (White) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_White.paa)
         };
@@ -813,7 +813,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Carrier GL Rig";
+        displayName="[183RD] (White) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_Solid_White.paa)
         };
@@ -825,7 +825,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Carrier Lite";
+        displayName="[183RD] (White) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_White_co.paa)
         };
@@ -837,7 +837,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Carrier Rig";
+        displayName="[183RD] (White) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_White_co.paa)
         };
@@ -849,7 +849,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Slash Bandolier";
+        displayName="[183RD] (White) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_White_co.paa)
         };
@@ -861,7 +861,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Carrier Lite (No belt)";
+        displayName="[183RD] (White) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_Solid_White_co.paa)
         };
@@ -881,7 +881,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Carrier Special Rig";
+        displayName="[183RD] (DCU) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_DCU.paa)
         };
@@ -893,7 +893,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Carrier GL Rig";
+        displayName="[183RD] (DCU) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_DCU.paa)
         };
@@ -905,7 +905,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Carrier Lite";
+        displayName="[183RD] (DCU) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_DCU_co.paa)
         };
@@ -917,7 +917,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Carrier Rig";
+        displayName="[183RD] (DCU) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_DCU_co.paa)
         };
@@ -929,7 +929,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Slash Bandolier";
+        displayName="[183RD] (DCU) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_DCU_co.paa)
         };
@@ -941,7 +941,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Carrier Lite (No belt)";
+        displayName="[183RD] (DCU) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_DCU_co.paa)
         };
@@ -961,7 +961,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Carrier Special Rig";
+        displayName="[183RD] (M81) Carrier Special Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_M81.paa)
         };
@@ -973,7 +973,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Carrier GL Rig";
+        displayName="[183RD] (M81) Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrier_gl_rig_US_M81.paa)
         };
@@ -985,7 +985,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Carrier Lite";
+        displayName="[183RD] (M81) Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_M81_co.paa)
         };
@@ -997,7 +997,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Carrier Rig";
+        displayName="[183RD] (M81) Carrier Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_M81_co.paa)
         };
@@ -1009,7 +1009,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Slash Bandolier";
+        displayName="[183RD] (M81) Slash Bandolier";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_M81_co.paa)
         };
@@ -1021,7 +1021,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Carrier Lite (No belt)";
+        displayName="[183RD] (M81) Carrier Lite (No belt)";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\vests_US_M81_co.paa)
         };
@@ -1041,7 +1041,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Modular Carrier GL Rig";
+        displayName="[183RD] (Multicam) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_co.paa)
         };
@@ -1053,7 +1053,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Modular Carrier Lite";
+        displayName="[183RD] (Multicam) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_co.paa)
         };
@@ -1065,7 +1065,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Modular Carrier Vest";
+        displayName="[183RD] (Multicam) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_co.paa)
         };
@@ -1077,7 +1077,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Modular Carrier GL Rig";
+        displayName="[183RD] (Multicam Snow) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_snow_co.paa)
         };
@@ -1089,7 +1089,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Modular Carrier Lite";
+        displayName="[183RD] (Multicam Snow) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_snow_co.paa)
         };
@@ -1101,7 +1101,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Modular Carrier Vest";
+        displayName="[183RD] (Multicam Snow) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\carrierrigkbt_01_multicam_snow_co.paa)
         };
@@ -1113,7 +1113,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Modular Carrier GL Rig";
+        displayName="[183RD] (Multicam Woodland) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Multicam_Woodland_CO.paa)
         };
@@ -1125,7 +1125,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Modular Carrier Lite";
+        displayName="[183RD] (Multicam Woodland) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Multicam_Woodland_CO.paa)
         };
@@ -1137,7 +1137,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Modular Carrier Vest";
+        displayName="[183RD] (Multicam Woodland) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Multicam_Woodland_CO.paa)
         };
@@ -1149,7 +1149,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Modular Carrier GL Rig";
+        displayName="[183RD] (Black) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Black_CO.paa)
         };
@@ -1161,7 +1161,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Modular Carrier Lite";
+        displayName="[183RD] (Black) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Black_CO.paa)
         };
@@ -1173,7 +1173,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Black) Modular Carrier Vest";
+        displayName="[183RD] (Black) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Black_CO.paa)
         };
@@ -1185,7 +1185,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Modular Carrier GL Rig";
+        displayName="[183RD] (Coyote) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_CoyoteBrown_CO.paa)
         };
@@ -1197,7 +1197,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Modular Carrier Lite";
+        displayName="[183RD] (Coyote) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_CoyoteBrown_CO.paa)
         };
@@ -1209,7 +1209,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Modular Carrier Vest";
+        displayName="[183RD] (Coyote) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_CoyoteBrown_CO.paa)
         };
@@ -1221,7 +1221,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Modular Carrier GL Rig";
+        displayName="[183RD] (Ranger Green) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Ranger_Green_CO.paa)
         };
@@ -1233,7 +1233,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Modular Carrier Lite";
+        displayName="[183RD] (Ranger Green) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Ranger_Green_CO.paa)
         };
@@ -1245,7 +1245,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger Green) Modular Carrier Vest";
+        displayName="[183RD] (Ranger Green) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Ranger_Green_CO.paa)
         };
@@ -1257,7 +1257,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Modular Carrier GL Rig";
+        displayName="[183RD] (Tigerstripe) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_Tigerstripe_CO.paa)
         };
@@ -1269,7 +1269,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Modular Carrier Lite";
+        displayName="[183RD] (Tigerstripe) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_Tigerstripe_CO.paa)
         };
@@ -1281,7 +1281,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Modular Carrier Vest";
+        displayName="[183RD] (Tigerstripe) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_Tigerstripe_CO.paa)
         };
@@ -1293,7 +1293,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Modular Carrier GL Rig";
+        displayName="[183RD] (Olive) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Olive_CO.paa)
         };
@@ -1305,7 +1305,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Modular Carrier Lite";
+        displayName="[183RD] (Olive) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Olive_CO.paa)
         };
@@ -1317,7 +1317,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Modular Carrier Vest";
+        displayName="[183RD] (Olive) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Olive_CO.paa)
         };
@@ -1329,7 +1329,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Modular Carrier GL Rig";
+        displayName="[183RD] (Tan) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Tan_CO.paa)
         };
@@ -1341,7 +1341,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Modular Carrier Lite";
+        displayName="[183RD] (Tan) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Tan_CO.paa)
         };
@@ -1353,7 +1353,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Modular Carrier Vest";
+        displayName="[183RD] (Tan) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_Tan_CO.paa)
         };
@@ -1365,7 +1365,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Modular Carrier GL Rig";
+        displayName="[183RD] (White) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_White_CO.paa)
         };
@@ -1377,7 +1377,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Modular Carrier Lite";
+        displayName="[183RD] (White) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_White_CO.paa)
         };
@@ -1389,7 +1389,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Modular Carrier Vest";
+        displayName="[183RD] (White) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_Solid_White_CO.paa)
         };
@@ -1401,7 +1401,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Modular Carrier GL Rig";
+        displayName="[183RD] (DCU) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_DCU_CO.paa)
         };
@@ -1413,7 +1413,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Modular Carrier Lite";
+        displayName="[183RD] (DCU) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_DCU_CO.paa)
         };
@@ -1425,7 +1425,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Modular Carrier Vest";
+        displayName="[183RD] (DCU) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_DCU_CO.paa)
         };
@@ -1437,7 +1437,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Modular Carrier GL Rig";
+        displayName="[183RD] (M81) Modular Carrier GL Rig";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_M81_CO.paa)
         };
@@ -1449,7 +1449,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Modular Carrier Lite";
+        displayName="[183RD] (M81) Modular Carrier Lite";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_M81_CO.paa)
         };
@@ -1461,7 +1461,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Modular Carrier Vest";
+        displayName="[183RD] (M81) Modular Carrier Vest";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\CarrierRigKBT_01_US_M81_CO.paa)
         };
@@ -1473,7 +1473,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Crye AVS Assaulter 1";
+        displayName="[183RD] (Multicam) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam.paa),
@@ -1497,7 +1497,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Crye AVS Assaulter 2";
+        displayName="[183RD] (Multicam) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam.paa),
             QPATHTOF(data\AVS_Belt556_Multicam.paa),
@@ -1521,7 +1521,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Crye AVS Assaulter 3";
+        displayName="[183RD] (Multicam) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam.paa),
             QPATHTOF(data\AVS_Mk4_Multicam.paa),
@@ -1545,7 +1545,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Crye AVS Assaulter 4";
+        displayName="[183RD] (Multicam) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam.paa),
             QPATHTOF(data\AVS_AVSPouchT_Multicam.paa),
@@ -1569,7 +1569,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam) Crye AVS Gunner";
+        displayName="[183RD] (Multicam) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam.paa),
@@ -1591,7 +1591,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Crye AVS Assaulter 1";
+        displayName="[183RD] (Multicam Snow) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Snow.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam_Snow.paa),
@@ -1615,7 +1615,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Crye AVS Assaulter 2";
+        displayName="[183RD] (Multicam Snow) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Snow.paa),
             QPATHTOF(data\AVS_Belt556_Multicam_Snow.paa),
@@ -1639,7 +1639,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Crye AVS Assaulter 3";
+        displayName="[183RD] (Multicam Snow) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Snow.paa),
             QPATHTOF(data\AVS_Mk4_Multicam_Snow.paa),
@@ -1663,7 +1663,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Crye AVS Assaulter 4";
+        displayName="[183RD] (Multicam Snow) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Snow.paa),
             QPATHTOF(data\AVS_AVSPouchT_Multicam_Snow.paa),
@@ -1687,7 +1687,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Snow) Crye AVS Gunner";
+        displayName="[183RD] (Multicam Snow) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Snow.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam_Snow.paa),
@@ -1709,7 +1709,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Crye AVS Assaulter 1";
+        displayName="[183RD] (Multicam Woodland) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Woodland.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam_Woodland.paa),
@@ -1733,7 +1733,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Crye AVS Assaulter 2";
+        displayName="[183RD] (Multicam Woodland) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Woodland.paa),
             QPATHTOF(data\AVS_Belt556_Multicam_Woodland.paa),
@@ -1757,7 +1757,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Crye AVS Assaulter 3";
+        displayName="[183RD] (Multicam Woodland) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Woodland.paa),
             QPATHTOF(data\AVS_Mk4_Multicam_Woodland.paa),
@@ -1781,7 +1781,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Crye AVS Assaulter 4";
+        displayName="[183RD] (Multicam Woodland) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Woodland.paa),
             QPATHTOF(data\AVS_AVSPouchT_Multicam_Woodland.paa),
@@ -1805,7 +1805,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Multicam Woodland) Crye AVS Gunner";
+        displayName="[183RD] (Multicam Woodland) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Multicam_Woodland.paa),
             QPATHTOF(data\AVS_AVSPouch_Multicam_Woodland.paa),
@@ -1827,7 +1827,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Crye AVS Assaulter 1";
+        displayName="[183RD] (Coyote) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_CoyoteBrown.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_CoyoteBrown.paa),
@@ -1851,7 +1851,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Crye AVS Assaulter 2";
+        displayName="[183RD] (Coyote) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_CoyoteBrown.paa),
             QPATHTOF(data\AVS_Belt556_Solid_CoyoteBrown.paa),
@@ -1875,7 +1875,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Crye AVS Assaulter 3";
+        displayName="[183RD] (Coyote) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_CoyoteBrown.paa),
             QPATHTOF(data\AVS_Mk4_Solid_CoyoteBrown.paa),
@@ -1899,7 +1899,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Crye AVS Assaulter 4";
+        displayName="[183RD] (Coyote) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_CoyoteBrown.paa),
             QPATHTOF(data\AVS_AVSPouchT_Solid_CoyoteBrown.paa),
@@ -1923,7 +1923,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Coyote) Crye AVS Gunner";
+        displayName="[183RD] (Coyote) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_CoyoteBrown.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_CoyoteBrown.paa),
@@ -1945,7 +1945,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger) Crye AVS Assaulter 1";
+        displayName="[183RD] (Ranger) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Ranger_Green.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Ranger_Green.paa),
@@ -1969,7 +1969,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger) Crye AVS Assaulter 2";
+        displayName="[183RD] (Ranger) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Ranger_Green.paa),
             QPATHTOF(data\AVS_Belt556_Solid_Ranger_Green.paa),
@@ -1993,7 +1993,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger) Crye AVS Assaulter 3";
+        displayName="[183RD] (Ranger) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Ranger_Green.paa),
             QPATHTOF(data\AVS_Mk4_Solid_Ranger_Green.paa),
@@ -2017,7 +2017,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger) Crye AVS Assaulter 4";
+        displayName="[183RD] (Ranger) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Ranger_Green.paa),
             QPATHTOF(data\AVS_AVSPouchT_Solid_Ranger_Green.paa),
@@ -2041,7 +2041,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Ranger) Crye AVS Gunner";
+        displayName="[183RD] (Ranger) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Ranger_Green.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Ranger_Green.paa),
@@ -2063,7 +2063,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Crye AVS Assaulter 1";
+        displayName="[183RD] (Tigerstripe) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_Tigerstripe.paa),
             QPATHTOF(data\AVS_AVSPouch_US_Tigerstripe.paa),
@@ -2087,7 +2087,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Crye AVS Assaulter 2";
+        displayName="[183RD] (Tigerstripe) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_Tigerstripe.paa),
             QPATHTOF(data\AVS_Belt556_US_Tigerstripe.paa),
@@ -2111,7 +2111,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Crye AVS Assaulter 3";
+        displayName="[183RD] (Tigerstripe) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_Tigerstripe.paa),
             QPATHTOF(data\AVS_Mk4_US_Tigerstripe.paa),
@@ -2135,7 +2135,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Crye AVS Assaulter 4";
+        displayName="[183RD] (Tigerstripe) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_Tigerstripe.paa),
             QPATHTOF(data\AVS_AVSPouchT_US_Tigerstripe.paa),
@@ -2159,7 +2159,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tigerstripe) Crye AVS Gunner";
+        displayName="[183RD] (Tigerstripe) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_Tigerstripe.paa),
             QPATHTOF(data\AVS_AVSPouch_US_Tigerstripe.paa),
@@ -2181,7 +2181,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Crye AVS Assaulter 1";
+        displayName="[183RD] (Olive) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Olive.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Olive.paa),
@@ -2205,7 +2205,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Crye AVS Assaulter 2";
+        displayName="[183RD] (Olive) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Olive.paa),
             QPATHTOF(data\AVS_Belt556_Solid_Olive.paa),
@@ -2229,7 +2229,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Crye AVS Assaulter 3";
+        displayName="[183RD] (Olive) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Olive.paa),
             QPATHTOF(data\AVS_Mk4_Solid_Olive.paa),
@@ -2253,7 +2253,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Crye AVS Assaulter 4";
+        displayName="[183RD] (Olive) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Olive.paa),
             QPATHTOF(data\AVS_AVSPouchT_Solid_Olive.paa),
@@ -2277,7 +2277,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Olive) Crye AVS Gunner";
+        displayName="[183RD] (Olive) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Olive.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Olive.paa),
@@ -2299,7 +2299,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Crye AVS Assaulter 1";
+        displayName="[183RD] (Tan) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Tan.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Tan.paa),
@@ -2323,7 +2323,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Crye AVS Assaulter 2";
+        displayName="[183RD] (Tan) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Tan.paa),
             QPATHTOF(data\AVS_Belt556_Solid_Tan.paa),
@@ -2347,7 +2347,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Crye AVS Assaulter 3";
+        displayName="[183RD] (Tan) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Tan.paa),
             QPATHTOF(data\AVS_Mk4_Solid_Tan.paa),
@@ -2371,7 +2371,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Crye AVS Assaulter 4";
+        displayName="[183RD] (Tan) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Tan.paa),
             QPATHTOF(data\AVS_AVSPouchT_Solid_Tan.paa),
@@ -2395,7 +2395,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (Tan) Crye AVS Gunner";
+        displayName="[183RD] (Tan) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_Tan.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_Tan.paa),
@@ -2417,7 +2417,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Crye AVS Assaulter 1";
+        displayName="[183RD] (White) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_White.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_White.paa),
@@ -2441,7 +2441,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Crye AVS Assaulter 2";
+        displayName="[183RD] (White) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_White.paa),
             QPATHTOF(data\AVS_Belt556_Solid_White.paa),
@@ -2465,7 +2465,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Crye AVS Assaulter 3";
+        displayName="[183RD] (White) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_White.paa),
             QPATHTOF(data\AVS_Mk4_Solid_White.paa),
@@ -2489,7 +2489,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Crye AVS Assaulter 4";
+        displayName="[183RD] (White) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_White.paa),
             QPATHTOF(data\AVS_AVSPouchT_Solid_White.paa),
@@ -2513,7 +2513,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (White) Crye AVS Gunner";
+        displayName="[183RD] (White) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_Solid_White.paa),
             QPATHTOF(data\AVS_AVSPouch_Solid_White.paa),
@@ -2535,7 +2535,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Crye AVS Assaulter 1";
+        displayName="[183RD] (DCU) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_DCU.paa),
             QPATHTOF(data\AVS_AVSPouch_US_DCU.paa),
@@ -2559,7 +2559,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Crye AVS Assaulter 2";
+        displayName="[183RD] (DCU) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_DCU.paa),
             QPATHTOF(data\AVS_Belt556_US_DCU.paa),
@@ -2583,7 +2583,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Crye AVS Assaulter 3";
+        displayName="[183RD] (DCU) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_DCU.paa),
             QPATHTOF(data\AVS_Mk4_US_DCU.paa),
@@ -2607,7 +2607,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Crye AVS Assaulter 4";
+        displayName="[183RD] (DCU) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_DCU.paa),
             QPATHTOF(data\AVS_AVSPouchT_US_DCU.paa),
@@ -2631,7 +2631,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (DCU) Crye AVS Gunner";
+        displayName="[183RD] (DCU) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_DCU.paa),
             QPATHTOF(data\AVS_AVSPouch_US_DCU.paa),
@@ -2653,7 +2653,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Crye AVS Assaulter 1";
+        displayName="[183RD] (M81) Crye AVS Assaulter 1";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_M81.paa),
             QPATHTOF(data\AVS_AVSPouch_US_M81.paa),
@@ -2677,7 +2677,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Crye AVS Assaulter 2";
+        displayName="[183RD] (M81) Crye AVS Assaulter 2";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_M81.paa),
             QPATHTOF(data\AVS_Belt556_US_M81.paa),
@@ -2701,7 +2701,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Crye AVS Assaulter 3";
+        displayName="[183RD] (M81) Crye AVS Assaulter 3";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_M81.paa),
             QPATHTOF(data\AVS_Mk4_US_M81.paa),
@@ -2725,7 +2725,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Crye AVS Assaulter 4";
+        displayName="[183RD] (M81) Crye AVS Assaulter 4";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_M81.paa),
             QPATHTOF(data\AVS_AVSPouchT_US_M81.paa),
@@ -2749,7 +2749,7 @@ class CfgWeapons {
         class ItemInfo: ItemInfo {
             containerClass = "Supply300";
         };
-        displayName="[GHOST] (M81) Crye AVS Gunner";
+        displayName="[183RD] (M81) Crye AVS Gunner";
         hiddenSelectionsTextures[]= {
             QPATHTOF(data\AVS_Vest_US_M81.paa),
             QPATHTOF(data\AVS_AVSPouch_US_M81.paa),

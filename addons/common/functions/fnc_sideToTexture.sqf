@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_sideToTexture
+ * Name: op183_common_fnc_sideToTexture
  * Author: Snippers
  *
  * Arguments:

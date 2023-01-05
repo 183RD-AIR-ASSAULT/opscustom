@@ -5,7 +5,7 @@ ADDON = true;
 
 // ACE check
 [
-  "nvg_ACE",
+  "op183_nvg_ACE",
   "CHECKBOX",
   ["Use ACE color preset","Enable if using ACE"],
   COMPONENT_NAME,
@@ -14,7 +14,7 @@ ADDON = true;
 
 // NVG effect select
 [
-  "nvg_Effect",
+  "op183_nvg_Effect",
   "LIST",
   [
     "NVG Effect",
@@ -50,7 +50,7 @@ ADDON = true;
 
 // NVG blacklist
 [
-  "nvg_Blacklist",
+  "op183_nvg_Blacklist",
   "EDITBOX",
   ["Blacklisted NVG classnames", "Seperrate classnames by commas \nEg. className1, className2, className3, etc"],
   COMPONENT_NAME,

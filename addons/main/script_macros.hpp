@@ -36,15 +36,15 @@
 #define VERSIONNUMBER (MGETMVAR(Version_UpdatedNumber,102))
 #define VERSION_CHECK(var1) if (var1 < VERSIONNUMBER) exitwith {}
 
-// macros
+// OP183 macros
 #define IS_MOD_LOADED(modclass)     (isClass (configFile >> "CfgPatches" >> #modclass))
 
 // Extension macros
-#define EXT "Ghost_mods"
-#define EXT_LOG "Ghost_mods_log"
+#define EXT "183rd_mods"
+#define EXT_LOG "183rd_mods_log"
 
 
-// Debug macros
+// OP183 Debug macros
 #include "script_debug.hpp"
 #include "config_macros.hpp"
 

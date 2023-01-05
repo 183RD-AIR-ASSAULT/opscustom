@@ -29,7 +29,7 @@ switch _mode do {
         _ctrlTexture ctrlEnable true;
         _ctrlNotepadIn ctrlEnable true;
 
-        _notepadContents = uiNamespace getVariable ["Notepad_Content", ""];
+        _notepadContents = uiNamespace getVariable ["OP183_Notepad_Content", ""];
 
         _ctrlNotepadIn ctrlSetText _notepadContents;
 
@@ -45,6 +45,6 @@ switch _mode do {
         _notepadContents = ctrlText _ctrlNotepadIn;
 
         // Save the contents of the notepad to the missionNamespace
-        missionNamespace setVariable ["Notepad_Content", _notepadContents];
+        missionNamespace setVariable ["OP183_Notepad_Content", _notepadContents];
     };
 };

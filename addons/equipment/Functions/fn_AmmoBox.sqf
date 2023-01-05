@@ -1,5 +1,5 @@
 /*
-Function: fnc_Ammobox
+Function: OP183_fnc_Ammobox
 
 Description:
  Used to configure basic container Ammo state.
@@ -10,8 +10,8 @@ Arguments:
 
 Examples:
  (begin example)
-  [this] call fnc_Ammobox;
-  [this, "Aegis"] call fnc_Ammobox;
+  [this] call OP183_fnc_Ammobox;
+  [this, "Aegis"] call OP183_fnc_Ammobox;
  (end)
 
 Author:
@@ -26,13 +26,13 @@ params [
  ["_Type", "None"]
 ];
 
-private _Type = _container getVariable ["LimitedAmmoSelect", -1];
+private _Type = _container getVariable ["OP183_LimitedAmmoSelect", -1];
 
 if ((_Type isEqualto -1) || (_Type isEqualTo "None")) exitwith {};
 
 call {
   if (_Type isEqualto 0) exitwith {_Type = "Vanilla"};
-  if (_Type isEqualto 1) exitwith {_Type = "Ghost"};
+  if (_Type isEqualto 1) exitwith {_Type = "183rd"};
   if (_Type isEqualto 2) exitwith {_Type = "RHS"};
 };
 
@@ -51,7 +51,7 @@ call {
     ["Titan_AT",4]
    ];
  };
-if (_Type isEqualTo "Ghost") exitwith {
+if (_Type isEqualTo "183rd") exitwith {
       _ContainerItems = [
             "ItemAndroid",
             "rhsusf_100Rnd_762x51",
@@ -311,10 +311,10 @@ if (_Type isEqualTo "Ghost") exitwith {
             "ACE_Sandbag_empty",
             "ACE_SpareBarrel_Item",
             "ACE_SpareBarrel",
-            "medbags_DrugKit",
+            "op183_medbags_DrugKit",
             "KNB_PanelGreen",
-            "medbags_FirstAid",
-            "medbags_MedicKit",
+            "op183_medbags_FirstAid",
+            "op183_medbags_MedicKit",
             "KNB_PanelRed",
             "KNB_PanelYellow",
             "tsp_frameCharge_mag",

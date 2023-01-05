@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_capitalize
+ * Name: op183_common_fnc_capitalize
  * Author: Head
  *
  * Arguments:

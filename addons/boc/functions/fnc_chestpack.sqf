@@ -10,7 +10,7 @@
  * Classname <STRING>
  *
  * Example:
- * [player] call boc_fnc_chestpack;
+ * [player] call OP183_boc_fnc_chestpack;
  *
  * Public: No
  */

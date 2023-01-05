@@ -10,7 +10,7 @@
  * 0: Is task successfully showed? <BOOL>
  *
  * Example:
- * ["KnockHorse"] call tasks_fnc_showTask
+ * ["KnockHorse"] call op183_tasks_fnc_showTask
  *
  * Public: Yes
  */

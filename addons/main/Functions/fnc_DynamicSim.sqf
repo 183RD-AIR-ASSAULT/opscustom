@@ -1,6 +1,6 @@
 #include "../script_component.hpp"
 /*
-Function: FUNC(AIOccupyBuilding) fnc_DynamicSim
+Function: FUNC(AIOccupyBuilding) OP183_fnc_DynamicSim
 
 Description:
     Globally enables or disables dynamic simulation and sets proper parameters.

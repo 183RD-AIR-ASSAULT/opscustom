@@ -15,6 +15,6 @@
 
 class op183_adminlog
 {
-    title = "Ghost Log";
+    title = "183rd Log";
     variable = "op183_adminmenu_debrief";
 };

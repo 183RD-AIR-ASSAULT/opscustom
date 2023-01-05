@@ -10,7 +10,7 @@
  * Mass <NUMBER>
  *
  * Example:
- * [player] call boc_fnc_loadChestpack;
+ * [player] call OP183_boc_fnc_loadChestpack;
  *
  * Public: No
  */

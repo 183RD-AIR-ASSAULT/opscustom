@@ -1,6 +1,6 @@
 #include "../script_component.hpp"
 /*
-Function: Training_fnc_ResetTargets
+Function: op183_Training_fnc_ResetTargets
 
 Description:
     Used to set pop up targets to fall when hit and then up on laptop command.
@@ -13,8 +13,8 @@ Arguments:
 
 Examples:
     (begin example)
-        [this, "Reset Targets", [1200,4200,0], 250] call Training_fnc_ResetTargets;
-        [MyLaptopName, "Reset 300m Range", [5500,3522,0], 300] call Training_fnc_ResetTargets;
+        [this, "Reset Targets", [1200,4200,0], 250] call op183_Training_fnc_ResetTargets;
+        [MyLaptopName, "Reset 300m Range", [5500,3522,0], 300] call op183_Training_fnc_ResetTargets;
     (end)
 
 Author:

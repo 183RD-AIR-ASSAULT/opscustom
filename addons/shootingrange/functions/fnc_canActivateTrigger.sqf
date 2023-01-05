@@ -11,7 +11,7 @@
  * Can Stop Range <BOOL>
  *
  * Example:
- * [controller, target] call shootingrange_fnc_canActivateTrigger;
+ * [controller, target] call op183_shootingrange_fnc_canActivateTrigger;
  *
  * Public: No
  */

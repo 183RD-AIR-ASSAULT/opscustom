@@ -11,7 +11,7 @@
  * Cargo container or objNull <OBJECT>
  *
  * Example:
- * [player] call boc_fnc_chestpackContainer;
+ * [player] call OP183_boc_fnc_chestpackContainer;
  *
  * Public: No
  */

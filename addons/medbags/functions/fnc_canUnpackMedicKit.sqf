@@ -1,7 +1,7 @@
 #include "..\script_component.hpp"
 /*
 
- * \medical\supplies\functions\fn_canUnpackMedicKit.sqf
+ * \op183_medical\supplies\functions\fn_canUnpackMedicKit.sqf
  * by Ojemineh
  *
  * check if medical supplies can be unpacked
@@ -13,7 +13,7 @@
  * <BOOLEAN>
  *
  * Example:
- * [player] call medical_supplies_fnc_canUnpackMedicKit;
+ * [player] call OP183_medical_supplies_fnc_canUnpackMedicKit;
  *
  */
 
@@ -32,7 +32,7 @@ if (isNull _unit) exitWith {false};
 private _return = false;
 
 _return = (
-    ("medbags_MedicKit" in items _unit) &&
+    ("op183_medbags_MedicKit" in items _unit) &&
     (alive _unit) &&
     !(_unit getVariable ["ace_captives_isSurrendering", false]) &&
     !(_unit getVariable ["ace_captives_isHandcuffed", false]) &&

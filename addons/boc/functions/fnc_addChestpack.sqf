@@ -11,7 +11,7 @@
  * Nothing
  *
  * Example:
- * [player,"B_Kitbag_rgr"] call boc_fnc_addChestpack;
+ * [player,"B_Kitbag_rgr"] call OP183_boc_fnc_addChestpack;
  *
  * Public: No
  */

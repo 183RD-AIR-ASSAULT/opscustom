@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [true] call fatigue_fnc_toggleHighJogFactor
+ * [true] call op183_fatigue_fnc_toggleHighJogFactor
  *
  * Public: No
  */

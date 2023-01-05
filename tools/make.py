@@ -57,7 +57,7 @@ if sys.platform == "win32":
     import winreg
 
 ######## GLOBALS #########
-project = "@
+project = "@op183"
 project_version = "3.0.0"
 arma3tools_path = ""
 work_drive = ""
@@ -66,13 +66,13 @@ make_root = ""
 release_dir = ""
 module_root_parent = ""
 optionals_root = ""
-key_name = "
+key_name = "op183"
 key = ""
 dssignfile = ""
-prefix = "
-pbo_name_prefix = ""
+prefix = "op183"
+pbo_name_prefix = "op183_"
 signature_blacklist = []
-importantFiles = ["mod.cpp", "README.md", "AUTHORS.txt", "LICENSE", "Ghost.paa"]
+importantFiles = ["mod.cpp", "README.md", "AUTHORS.txt", "LICENSE", "183rd.paa"]
 versionFiles = ["README.md", "mod.cpp"]
 
 ciBuild = False # Used for CI builds
@@ -84,7 +84,7 @@ ciBuild = False # Used for CI builds
 #  See http://www.opensource.org/licenses/mit-license.php
 # Error Codes:
 #   -1 -> Directory does not exist
-#   -2 -> General error (see s traceback)
+#   -2 -> General error (see sop183k traceback)
 def  get_directory_hash(directory):
     directory_hash = hashlib.sha1()
     if not os.path.exists (directory):
@@ -110,7 +110,7 @@ def  get_directory_hash(directory):
                 f.close()
 
     except:
-        # Print the s traceback
+        # Print the sop183k traceback
         traceback.print_exc()
         return -2
 

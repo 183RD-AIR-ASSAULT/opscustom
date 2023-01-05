@@ -6,8 +6,8 @@ if (!hasinterface) exitwith {};
 
 if !(isClass (configFile >> "CfgPatches" >> "task_force_radio")) exitwith {};
 
-if (isNil "Main_TFARTransmitRange") exitwith {};
-player setVariable ["tf_sendingDistanceMultiplicator", Main_TFARTransmitRange];
+if (isNil "op183_Main_TFARTransmitRange") exitwith {};
+player setVariable ["tf_sendingDistanceMultiplicator", OP183_Main_TFARTransmitRange];
 
-if (isNil "Main_TFARTerrainInterference") exitwith {};
-player setVariable ["TF_terrain_interception_coefficient", Main_TFARTerrainInterference];
+if (isNil "op183_Main_TFARTerrainInterference") exitwith {};
+player setVariable ["TF_terrain_interception_coefficient", OP183_Main_TFARTerrainInterference];

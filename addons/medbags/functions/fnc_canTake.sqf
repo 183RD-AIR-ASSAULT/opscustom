@@ -1,7 +1,7 @@
 #include "..\script_component.hpp"
 /*
 
- * \medical\supplies\functions\fn_canUnpackFirstAid.sqf
+ * \op183_medical\supplies\functions\fn_canUnpackFirstAid.sqf
  * by Ojemineh
  *
  * check if medical supplies can be unpacked
@@ -13,7 +13,7 @@
  * <BOOLEAN>
  *
  * Example:
- * [player] call medical_supplies_fnc_canUnpackFirstAid;
+ * [player] call OP183_medical_supplies_fnc_canUnpackFirstAid;
  *
  */
 
@@ -32,7 +32,7 @@ if (isNull _unit) exitWith {false};
 private _return = false;
 
 _return = (
-    ("medbags_FirstAid" in items _unit) &&
+    ("op183_medbags_FirstAid" in items _unit) &&
     (_unit getVariable ["ace_isUnconscious", false]) &&
     (Not visibleMap)
 );

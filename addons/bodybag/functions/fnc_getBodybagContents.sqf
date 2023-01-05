@@ -10,7 +10,7 @@
  * Bodybag Contents <ARRAY>
  *
  * Example:
- * [cursorObject] call bodybag_fnc_getBodybagContents
+ * [cursorObject] call OP183_bodybag_fnc_getBodybagContents
  *
  * Public: Yes
  */

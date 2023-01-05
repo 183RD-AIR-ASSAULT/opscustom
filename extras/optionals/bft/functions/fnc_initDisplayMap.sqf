@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [display] call bft_fnc_initDisplayMission
+ * [display] call op183_bft_fnc_initDisplayMission
  *
  * Public: No
  */

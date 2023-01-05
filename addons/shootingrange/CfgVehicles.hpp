@@ -1,8 +1,9 @@
+#include "script_component.hpp"
 class CfgVehicles {
     class ACE_Module;
     class GVAR(Module): ACE_Module {
         author = QAUTHOR;
-        category = ";
+        category = PREFIX;
         displayName = CSTRING(Range);
         function = QFUNC(moduleInit);
         scope = 2;

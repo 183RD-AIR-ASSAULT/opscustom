@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [30] call respawn_fnc_adjustTimeLocal
+ * [30] call op183_respawn_fnc_adjustTimeLocal
  *
  * Public: No
  */

@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_sideToColor
+ * Name: op183_common_fnc_sideToColor
  * Author: Snippers
  *
  * Arguments:
@@ -13,18 +13,18 @@
  */
 
 //Cache vars for speed
-if (isNil "common_blufor_color") then {
-    common_blufor_color = [blufor] call bis_fnc_sideColor;
-    common_opfor_color = [opfor] call bis_fnc_sideColor;
-    common_indep_color = [independent] call bis_fnc_sideColor;
-    common_civ_color = [civilian] call bis_fnc_sideColor;
-    common_empty_color = [sideUnknown] call bis_fnc_sideColor;
+if (isNil "op183_common_blufor_color") then {
+    op183_common_blufor_color = [blufor] call bis_fnc_sideColor;
+    op183_common_opfor_color = [opfor] call bis_fnc_sideColor;
+    op183_common_indep_color = [independent] call bis_fnc_sideColor;
+    op183_common_civ_color = [civilian] call bis_fnc_sideColor;
+    op183_common_empty_color = [sideUnknown] call bis_fnc_sideColor;
 };
 
 switch _this do {
-    case blufor: {common_blufor_color};
-    case opfor: {common_opfor_color};
-    case independent: {common_indep_color};
-    case civilian: {common_civ_color};
-    default {common_empty_color};
+    case blufor: {op183_common_blufor_color};
+    case opfor: {op183_common_opfor_color};
+    case independent: {op183_common_indep_color};
+    case civilian: {op183_common_civ_color};
+    default {op183_common_empty_color};
 };

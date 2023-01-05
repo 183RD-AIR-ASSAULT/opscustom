@@ -10,7 +10,7 @@
  * Nothing
  *
  * Example:
- * [player] call boc_fnc_actionOnChest;
+ * [player] call OP183_boc_fnc_actionOnChest;
  *
  * Public: No
  */

@@ -8,7 +8,7 @@ class CfgPatches {
         requiredAddons[] = {
             "cba_diagnostic"
         };
-        author = "Ghost";
+        author = "YonV";
         VERSION_CONFIG;
     };
 };

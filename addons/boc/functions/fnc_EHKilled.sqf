@@ -10,7 +10,7 @@
  * Nothing
  *
  * Example:
- * _this call boc_fnc_EHKilled;
+ * _this call OP183_boc_fnc_EHKilled;
  *
  * Public: No
  */

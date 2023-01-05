@@ -1,13 +1,13 @@
 #include "script_component.hpp"
 
-#ifndef LEAN_RHS_CUP_HLC
+#ifndef OP183_LEAN_RHS_CUP_HLC
 
 class CfgPatches {
     class ADDON {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"common"};
+        requiredAddons[] = {"op183_common"};
         author = QAUTHOR;
         authors[] = {"PabstMirror"};
         authorUrl = URL;

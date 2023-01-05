@@ -10,7 +10,7 @@
  * Nothing
  *
  * Example:
- * [] call boc_fnc_arsenal_postInit;
+ * [] call OP183_boc_fnc_arsenal_postInit;
  *
  * Public: No
  */

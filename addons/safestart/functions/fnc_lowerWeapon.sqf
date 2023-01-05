@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [player] call safestart_fnc_lowerWeapon
+ * [player] call op183_safestart_fnc_lowerWeapon
  *
  * Public: Yes
  */

@@ -11,7 +11,7 @@
  * None
  *
  * Example:
- * [player] call curator_fnc_assignZeus
+ * [player] call op183_curator_fnc_assignZeus
  *
  * Public: No
  */

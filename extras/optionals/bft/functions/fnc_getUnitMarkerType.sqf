@@ -10,7 +10,7 @@
  * Marker Type <STRING>
  *
  * Example:
- * ["UNIT"] call bft_fnc_getUnitMarkerType
+ * ["UNIT"] call op183_bft_fnc_getUnitMarkerType
  *
  * Public: No
  */

@@ -14,7 +14,7 @@
  * None
  *
  * Example:
- * [player, [getPlayerUID player, getUnitLoadout player, vehicle player, getPos player]] call back_to_game_fnc_handleTeleport
+ * [player, [getPlayerUID player, getUnitLoadout player, vehicle player, getPos player]] call op183_back_to_game_fnc_handleTeleport
  *
  * Public: No
  */

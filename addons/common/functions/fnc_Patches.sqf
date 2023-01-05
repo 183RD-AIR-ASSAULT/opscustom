@@ -1,5 +1,5 @@
 /*
-Function: fnc_Patches
+Function: OP183_fnc_Patches
 
 Description:
  Apply Section Patches to Players/Vehicles
@@ -10,7 +10,7 @@ Arguments:
 
 Examples:
  (begin example)
-  [this, "1Section"] call fnc_Patches;
+  [this, "1Section"] call OP183_fnc_Patches;
  (end)
 
 Author:

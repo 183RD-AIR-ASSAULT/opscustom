@@ -1,5 +1,5 @@
 /*
- MISSION TEMPLATE
+ OP183 MISSION TEMPLATE
  RespawnOnStartPosition.sqf
  Author: MitchJC
  Description: Scripts executed when a player respawns.

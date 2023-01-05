@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [killed] call bodybag_fnc_saveDroppedWeapons
+ * [killed] call OP183_bodybag_fnc_saveDroppedWeapons
  *
  * Public: No
  */

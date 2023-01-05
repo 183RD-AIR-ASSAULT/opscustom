@@ -1,5 +1,5 @@
 /*
- * Name: common_fnc_sideToNum
+ * Name: op183_common_fnc_sideToNum
  * Author: Snippers
  *
  * Arguments:

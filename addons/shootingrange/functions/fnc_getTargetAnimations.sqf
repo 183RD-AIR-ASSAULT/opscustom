@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * _anims = target call shootingrange_fnc_getTargetAnimations;
+ * _anims = target call op183_shootingrange_fnc_getTargetAnimations;
  *
  * Public: No
  */

@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * call respawn_fnc_enable
+ * call op183_respawn_fnc_enable
  *
  * Public: No
  */

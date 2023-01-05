@@ -10,7 +10,7 @@
  * Nothing
  *
  * Example:
- * [player] call boc_fnc_actionOnBack;
+ * [player] call OP183_boc_fnc_actionOnBack;
  *
  * Public: No
  */

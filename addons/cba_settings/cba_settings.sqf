@@ -1,4 +1,4 @@
-// GHOST - Role
+// 183RD - Role
 force Roles_comm = """76561198000002705""";
 force Roles_eng = """76561198000002705""";
 force Roles_medic = """76561198000002705""";
@@ -6,7 +6,7 @@ force Roles_srcomm = """76561198000002705""";
 force Roles_sreng = """76561198000002705""";
 force Roles_srmedic = """76561198000002705""";
 
-// GHOST - Rank
+// 183RD - Rank
 force ranks_captain = "";
 force ranks_colonel = "";
 force ranks_corporal = "";
@@ -489,30 +489,6 @@ force ace_zeus_revealMines = 0;
 force ace_zeus_zeusAscension = true;
 force ace_zeus_zeusBird = false;
 
-// Anti Wall Glitch by Nerexis
-force NER_antiWallGlitch_barrierClass = "Land_BarrelEmpty_F";
-force NER_antiWallGlitch_barrierDistance = 1.2;
-force NER_antiWallGlitch_checkHead = false;
-force NER_antiWallGlitch_checkWeaponLeft = true;
-force NER_antiWallGlitch_checkWeaponRight = true;
-force NER_antiWallGlitch_createBarrierAtBadLocation = false;
-force NER_antiWallGlitch_disableOnPlants = true;
-force NER_antiWallGlitch_distance_head = 0.1;
-force NER_antiWallGlitch_distance_weapon_left = 0.2;
-force NER_antiWallGlitch_distance_weapon_right = 0.2;
-force NER_antiWallGlitch_enabled = true;
-force NER_antiWallGlitch_isEnabledForPlayers = false;
-force NER_antiWallGlitch_preventDeathOnPunish = true;
-force NER_antiWallGlitch_preventDeathTime = 2;
-force NER_antiWallGlitch_punishByForce_strength = 250;
-force NER_antiWallGlitch_punishByNullVelocity_jumpStrength = 5;
-force NER_antiWallGlitch_punishByTeleport_jumpStrength = 2.5;
-force NER_antiWallGlitch_punishByTeleport_strength = 0.001;
-force NER_antiWallGlitch_punishType = 2;
-force NER_antiWallGlitch_recalcPathPlanningAtBadLoc = true;
-force NER_antiWallGlitch_sleepTime = 0.05;
-force NER_antiWallGlitch_unconsciousHelperSleepTime = 2;
-
 // Community Base Addons
 force cba_diagnostic_watchInfoRefreshRate = 0.2;
 force cba_disposable_dropUsedLauncher = 2;
@@ -730,26 +706,26 @@ force KNB_panel_aceAction = true;
 // OP183
 op183_autotest_outputToRPT = false;
 
-// Ghost - AdminMenu
+// 183RD - AdminMenu
 op183_adminMenu_endLogToRPT = false;
 op183_adminMenu_printToChat = 1;
 
-// Ghost - ai_disembark
+// 183RD - ai_disembark
 force op183_ai_disembark_enabled = true;
 force op183_ai_disembark_stayInImmobileChance = 0.2927;
 
-// Ghost - back_to_game
+// 183RD - back_to_game
 force op183_back_to_game_enableAddon = false;
 force op183_back_to_game_removeBody = true;
 force op183_back_to_game_teleportToLeader = false;
 force op183_back_to_game_teleportToVehicle = false;
 
-// Ghost - Backpack on Chest
+// 183RD - Backpack on Chest
 force op183_boc_disabled = false;
 force op183_boc_forceWalk = false;
 force op183_boc_removeKilledPlayerChestpack = true;
 
-// Ghost - BluForce Tracker
+// 183RD - BluForce Tracker
 FORCE FORCE op183_bft_bftEnabled = true;
 FORCE FORCE op183_bft_friendlySides_CIVILIAN = [0,2];
 FORCE FORCE op183_bft_friendlySides_EAST = [3];
@@ -773,10 +749,10 @@ FORCE FORCE op183_bft_showUnitNames = true;
 FORCE FORCE op183_bft_teamColors = "ACE";
 FORCE FORCE op183_bft_updateInterval = 0
 
-// Ghost - Bodybag
+// 183RD - Bodybag
 force op183_bodybag_destroyChance = 20;
 
-// Ghost - Channels
+// 183RD - Channels
 force op183_Channels_CommandDuration = 0;
 force op183_Channels_CommandText = false;
 force op183_Channels_CommandVoice = false;
@@ -796,31 +772,31 @@ force op183_Channels_VehicleDuration = 0;
 force op183_Channels_VehicleText = false;
 force op183_Channels_VehicleVoice = false;
 
-// Ghost - Cuecard
-force QGVAR(CueCards) = true;
+// 183RD - Cuecard
 
-// Ghost - fatigue
+
+// 183RD - fatigue
 force op183_fatigue_highJogCoef = 0.9;
 force op183_fatigue_highJogCoefEnabled = false;
 
-// Ghost - friendly_fire
+// 183RD - friendly_fire
 force op183_friendly_fire_loggingEnabled = true;
 
-// Ghost - fries
+// 183RD - fries
 force op183_fries_autoAdd = true;
 
-// Ghost - grass
+// 183RD - grass
 force op183_grass_enabled = false;
 
-// Ghost - insurgents
+// 183RD - insurgents
 force op183_insurgents_enabled_CUP = true;
 force op183_insurgents_enabled_Vanilla = true;
 
-// Ghost - respawn
+// 183RD - respawn
 force op183_respawn_enabled = true;
 force op183_respawn_time = 6;
 
-// Ghost - spectator
+// 183RD - spectator
 force op183_spectator_allowAI = false;
 force op183_spectator_allowAIUnconscious = false;
 force op183_spectator_allowUnconscious = false;
@@ -835,7 +811,7 @@ force op183_spectator_TPPCamera = false;
 force op183_spectator_TPPCameraUnconscious = false;
 force op183_spectator_unconsciousDelay = 30;
 
-// Ghost - Suppress
+// 183RD - Suppress
 force op183_suppress_checkLOS = true;
 force op183_suppress_overlayFadeoutTime = 10;
 force op183_suppress_overlayOpacity = 0.96;
@@ -843,18 +819,10 @@ force op183_suppress_overlayTexture = 0;
 force op183_suppress_projectileMaxDistance = 9;
 force op183_suppress_shooterMinDistance = 0;
 
-// Ghost - tagging
+// 183RD - tagging
 force op183_tagging_enabled = true;
 
-
-// Ghost - TFAR Setter
-op183_tfar_setter_Layout = false;
-op183_tfar_setter_Shortcut = false;
-op183_tfar_setter_ShowLR = true;
-op183_tfar_setter_ShowSR = true;
-op183_tfar_setter_ShowVLR = true;
-
-// Ghost - towing
+// 183RD - towing
 force op183_towing_addToCars = true;
 force op183_towing_addToHeavyDutyVehicles = true;
 
@@ -935,93 +903,3 @@ force SSS_setting_restoreCrewOnRTB = true;
 force SSS_setting_slingLoadSearchRadius = 100;
 force SSS_setting_slingLoadWhitelist = "";
 SSS_setting_useChatNotifications = false;
-
-
-// VCOM AI East Skill
-Vcm_AISkills_East_AimingAccuracy = 0.25;
-Vcm_AISkills_East_aimingShake = 0.15;
-Vcm_AISkills_East_aimingSpeed = 0.15;
-Vcm_AISkills_East_commanding = 0.85;
-Vcm_AISkills_East_courage = 0.5;
-Vcm_AISkills_East_general = 0.5;
-Vcm_AISkills_East_reloadSpeed = 1;
-Vcm_AISkills_East_spotDistance = 0.85;
-Vcm_AISkills_East_spotTime = 0.85;
-
-// VCOM AI General Skill
-Vcm_AISkills_General_AimingAccuracy = 0.25;
-Vcm_AISkills_General_aimingShake = 0.15;
-Vcm_AISkills_General_aimingSpeed = 0.35;
-Vcm_AISkills_General_commanding = 0.85;
-Vcm_AISkills_General_courage = 0.5;
-Vcm_AISkills_General_general = 0.5;
-Vcm_AISkills_General_GrenadeCoolDown = 60;
-Vcm_AISkills_General_reloadSpeed = 1;
-Vcm_AISkills_General_SmokeCoolDown = 60;
-Vcm_AISkills_General_spotDistance = 0.85;
-Vcm_AISkills_General_spotTime = 0.85;
-
-// VCOM AI Resistance Skill
-Vcm_AISkills_Resistance_AimingAccuracy = 0.25;
-Vcm_AISkills_Resistance_aimingShake = 0.15;
-Vcm_AISkills_Resistance_aimingSpeed = 0.15;
-Vcm_AISkills_Resistance_commanding = 0.85;
-Vcm_AISkills_Resistance_courage = 0.5;
-Vcm_AISkills_Resistance_general = 0.5;
-Vcm_AISkills_Resistance_reloadSpeed = 1;
-Vcm_AISkills_Resistance_spotDistance = 0.85;
-Vcm_AISkills_Resistance_spotTime = 0.85;
-
-// VCOM AI West Skill
-Vcm_AISkills_West_AimingAccuracy = 0.25;
-Vcm_AISkills_West_aimingShake = 0.15;
-Vcm_AISkills_West_aimingSpeed = 0.15;
-Vcm_AISkills_West_commanding = 0.85;
-Vcm_AISkills_West_courage = 0.5;
-Vcm_AISkills_West_general = 0.5;
-Vcm_AISkills_West_reloadSpeed = 1;
-Vcm_AISkills_West_spotDistance = 0.85;
-Vcm_AISkills_West_spotTime = 0.85;
-
-// VCOM SETTINGS
-VCM_ActivateAI = true;
-VCM_ADVANCEDMOVEMENT = true;
-VCM_AIDISTANCEVEHPATH = 100;
-VCM_AIMagLimit = 5;
-VCM_AISkills_General_EM = true;
-VCM_AISkills_General_EM_CHN = 10;
-VCM_AISkills_General_EM_CLDWN = 10;
-Vcm_AISkills_SideSpecific = false;
-VCM_AISNIPERS = true;
-VCM_ARTYDELAY = 30;
-VCM_ARTYENABLE = true;
-force VCM_ARTYSIDES = [GUER,EAST];
-VCM_CARGOCHNG = true;
-VCM_ClassSteal = true;
-VCM_DebugAIPathing = false;
-VCM_DebugCombatMove = false;
-VCM_DebugFSM = false;
-VCM_DebugOld = false;
-VCM_DebugSuppression = false;
-VCM_DISEMBARKRANGE = 200;
-Vcm_DrivingActivated = false;
-VCM_ForceSpeed = true;
-VCM_FRMCHANGE = true;
-Vcm_GrenadeChance = 10;
-VCM_HEARINGDISTANCE = 1200;
-Vcm_IdleAnimationChnc = 2;
-Vcm_IdleAnimationsEnabled = true;
-VCM_MINECHANCE = 75;
-Vcm_RadioChatter = false;
-VCM_RAGDOLL = true;
-VCM_RAGDOLLCHC = 100;
-force VCM_SIDEENABLED = [GUER,EAST];
-VCM_SKILLCHANGE = true;
-Vcm_SmokeGrenadeChance = 10;
-VCM_STATICARMT = 300;
-Vcm_StaticWeapons = false;
-VCM_StealVeh = true;
-VCM_TURRETUNLOAD = true;
-VCM_USECBASETTINGS = true;
-VCM_WARNDELAY = 30;
-VCM_WARNDIST = 1000;

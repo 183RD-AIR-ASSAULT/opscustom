@@ -1,6 +1,6 @@
 class Controls {
     class CheckboxUseMissionEnding: RscCheckBox {
-        idc = IDC_ADMINMENU_ENDM_FROMMISSION;
+        idc = IDC_OP183_ADMINMENU_ENDM_FROMMISSION;
         onCheckedChanged = QUOTE([ARR_2(ctrlParent (param [0]), ctrlIDC (param [0]))] call FUNC(endMission_occluder););
         x = "0";
         y = "0";
@@ -10,23 +10,23 @@ class Controls {
     class LabelEndings: RscText {
         idc = -1;
         text = "Use Ending from Mission";
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "1.0 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "0";
         w = "23.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
         h = "1.0 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class ListEndings: RscListBox {
-        idc = IDC_ADMINMENU_ENDM_LIST;
+        idc = IDC_OP183_ADMINMENU_ENDM_LIST;
         tooltip = "These endings are present in the mission";
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "0";
         y = "1.1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "24.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
         h = "12.9 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class CheckboxMissionEndingDefeat: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_FROMMISSION_ISDEFEAT;
+        idc = IDC_OP183_ADMINMENU_ENDM_FROMMISSION_ISDEFEAT;
         onCheckedChanged = "";
         x = "0";
         y = "14 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
@@ -40,7 +40,7 @@ class Controls {
     };
 
     class ButtonEndMission: GVAR(RscButtonMenu) {
-        idc = IDC_ADMINMENU_ENDM_ENDMISSION;
+        idc = IDC_OP183_ADMINMENU_ENDM_ENDMISSION;
         text = "End Mission";
         colorBackground[] = {0.8,0.27,0.133,1};
         onButtonClick = QUOTE((ctrlParent (param [0])) call FUNC(endMission_commit));
@@ -49,7 +49,7 @@ class Controls {
         w = "5.5 * (((safezoneW / safezoneH) min 1.2) / 40)";
     };
     class CheckboxExportAAR: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_EXPORTAAR;
+        idc = IDC_OP183_ADMINMENU_ENDM_EXPORTAAR;
         onCheckedChanged = "";
         x = "32.3 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "18.4 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
@@ -57,14 +57,14 @@ class Controls {
     class LabelExportAAR: LabelEndings {
         idc = -1;
         text = "Export AAR";
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         colorText[] = {0.8, 0.8, 0.8, 1};
         x = "33.3 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "18.4 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "4.5 * (((safezoneW / safezoneH) min 1.2) / 40)";
     };
     class ButtonActivateHunt: GVAR(RscButtonMenu) {
-        idc = IDC_ADMINMENU_ENDM_ACTIVATEHUNT;
+        idc = IDC_OP183_ADMINMENU_ENDM_ACTIVATEHUNT;
         text = "Activate AI Hunt";
         onButtonClick = QUOTE([] call FUNC(endMission_hunt));
         colorBackground[] = {0, 0, 0, 1};
@@ -74,7 +74,7 @@ class Controls {
     };
 
     class CheckboxUseSideSpecificEnding: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_SIDESPECIFIC;
+        idc = IDC_OP183_ADMINMENU_ENDM_SIDESPECIFIC;
         onCheckedChanged = QUOTE([ARR_2(ctrlParent (param [0]), ctrlIDC (param [0]))] call FUNC(endMission_occluder););
         x = "25.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
     };
@@ -88,7 +88,7 @@ class Controls {
         style = 48 + 2048; // picture + keep aspect ratio
         text = "\a3\ui_f\data\GUI\Rsc\RscDisplayMultiplayerSetup\flag_indep_ca.paa";
         colorText[] = {"(profilenamespace getvariable ['Map_BLUFOR_R',0])", "(profilenamespace getvariable ['Map_BLUFOR_G',0])", "(profilenamespace getvariable ['Map_BLUFOR_B',1])", 0.8};
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "24.9 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "1.0 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "1.3 * (((safezoneW / safezoneH) min 1.2) / 40)";
@@ -97,17 +97,17 @@ class Controls {
     class LabelSide_Blufor: RscText {
         idc = -1;
         text = "BLUFOR";
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "25.9 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "1.1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "11.6 * (((safezoneW / safezoneH) min 1.2) / 40)";
         h = "1 *((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class EndingSide_Blufor: RscToolbox {
-        idc = IDC_ADMINMENU_ENDM_BLUFOR;
+        idc = IDC_OP183_ADMINMENU_ENDM_BLUFOR;
         onToolBoxSelChanged = QUOTE(GVAR(DOUBLES(ending,blufor)) = param [1];);
 
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         rows = 1;
         columns = 2;
         strings[] = {"Defeat", "Victory"};
@@ -137,7 +137,7 @@ class Controls {
         y = "3.5 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class EndingSide_Opfor: EndingSide_Blufor {
-        idc = IDC_ADMINMENU_ENDM_OPFOR;
+        idc = IDC_OP183_ADMINMENU_ENDM_OPFOR;
         onToolBoxSelChanged = QUOTE(GVAR(DOUBLES(ending,opfor)) = param [1];);
         y = "4.6 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
@@ -151,7 +151,7 @@ class Controls {
         y = "5.9 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class EndingSide_Indep: EndingSide_Blufor {
-        idc = IDC_ADMINMENU_ENDM_INDEP;
+        idc = IDC_OP183_ADMINMENU_ENDM_INDEP;
         onToolBoxSelChanged = QUOTE(GVAR(DOUBLES(ending,resistance)) = param [1];);
         y = "7.0 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
@@ -165,13 +165,13 @@ class Controls {
         y = "8.3 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class EndingSide_Civilian: EndingSide_Blufor {
-        idc = IDC_ADMINMENU_ENDM_CIVILIAN;
+        idc = IDC_OP183_ADMINMENU_ENDM_CIVILIAN;
         onToolBoxSelChanged = QUOTE(GVAR(DOUBLES(ending,civilian)) = param [1];);
         y = "9.4 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
 
     class CheckboxEndingSideDraw: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_SIDEDRAW;
+        idc = IDC_OP183_ADMINMENU_ENDM_SIDEDRAW;
         onCheckedChanged = "";
         x = "25.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "11.0 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
@@ -184,7 +184,7 @@ class Controls {
     };
 
     class CheckboxUseCustomEnding: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_CUSTOM;
+        idc = IDC_OP183_ADMINMENU_ENDM_CUSTOM;
         onCheckedChanged = QUOTE([ARR_2(ctrlParent (param [0]), ctrlIDC (param [0]))] call FUNC(endMission_occluder););
         y = "16.1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
@@ -200,10 +200,10 @@ class Controls {
         h = "1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class TextfieldCustomEndingTitle: RscEdit {
-        idc = IDC_ADMINMENU_ENDM_CUSTOM_TITLE;
+        idc = IDC_OP183_ADMINMENU_ENDM_CUSTOM_TITLE;
         colorBackground[] = {0.5, 0.5, 0.5, 0.1};
         colorBorder[] = {1, 1, 1, 0.33};
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "2.4 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "17.2 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "10.9 * (((safezoneW / safezoneH) min 1.2) / 40)";
@@ -214,11 +214,11 @@ class Controls {
         y = "18.3 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class TextfieldCustomEndingSubtext: TextfieldCustomEndingTitle {
-        idc = IDC_ADMINMENU_ENDM_CUSTOM_SUBTEXT;
+        idc = IDC_OP183_ADMINMENU_ENDM_CUSTOM_SUBTEXT;
         y = "18.3 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class CheckboxCustomEndingDefeat: CheckboxUseMissionEnding {
-        idc = IDC_ADMINMENU_ENDM_CUSTOM_ISDEFEAT;
+        idc = IDC_OP183_ADMINMENU_ENDM_CUSTOM_ISDEFEAT;
         onCheckedChanged = "";
         x = "0";
         y = "19.4 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
@@ -231,23 +231,23 @@ class Controls {
     };
 
     class OccluderLeftUp: RscText {
-        idc = IDC_ADMINMENU_ENDM_OCCLUDER_LU;
+        idc = IDC_OP183_ADMINMENU_ENDM_OCCLUDER_LU;
         colorBackground[] = {0, 0, 0, 0.75};
         style = "0x02";
-        sizeEx = ADMINMENU_STD_SIZEX;
+        sizeEx = OP183_ADMINMENU_STD_SIZEX;
         x = "0";
         y = "1.1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "24.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
         h = "14 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class OccluderLeftDown: OccluderLeftUp {
-        idc = IDC_ADMINMENU_ENDM_OCCLUDER_LD;
+        idc = IDC_OP183_ADMINMENU_ENDM_OCCLUDER_LD;
         y = "17.2 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "24.2 * (((safezoneW / safezoneH) min 1.2) / 40)";
         h = "3.2 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
     };
     class OccluderRight: OccluderLeftUp {
-        idc = IDC_ADMINMENU_ENDM_OCCLUDER_R;
+        idc = IDC_OP183_ADMINMENU_ENDM_OCCLUDER_R;
         x = "25.15 * (((safezoneW / safezoneH) min 1.2) / 40)";
         y = "1.1 * ((((safezoneW / safezoneH) min 1.2) / 1.2) / 25)";
         w = "12.65 * (((safezoneW / safezoneH) min 1.2) / 40)";

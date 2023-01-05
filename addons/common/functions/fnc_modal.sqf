@@ -26,7 +26,7 @@
  * None
  *
  * Example:
- *  ["Some title", "This is a content."] call common_fnc_modal
+ *  ["Some title", "This is a content."] call op183_common_fnc_modal
  *  [
  *      ["Left", "Right"],
  *      [
@@ -36,7 +36,7 @@
  *          [getText (configFile >> "CfgWeapons" >> currentWeapon player >> "picture"), 5]
  *      ],
  *      true, {systemChat "Open!"}, {systemChat "Close!"}
- *  ] call common_fnc_modal
+ *  ] call op183_common_fnc_modal
  *
  * Public: Yes
  */

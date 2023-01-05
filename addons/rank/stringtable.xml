@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name=">
+<Project name="OP183">
     <Package name="Rank">
-        <Key ID="STR_rank_Corporal">
+        <Key ID="STR_OP183_rank_Corporal">
             <Original>Corporal</Original>
             <English>Corporal</English>
             <Czech>Desátník</Czech>
@@ -13,7 +13,7 @@
             <Russian>Капрал</Russian>
             <Spanish>Corporal</Spanish>
         </Key>
-        <Key ID="STR_rank_Sergeant">
+        <Key ID="STR_OP183_rank_Sergeant">
             <Original>Sergeant</Original>
             <English>Sergeant</English>
             <Czech>Četař</Czech>
@@ -25,7 +25,7 @@
             <Russian>Сержант</Russian>
             <Spanish>Sargento</Spanish>
         </Key>
-        <Key ID="STR_rank_Lieutenant">
+        <Key ID="STR_OP183_rank_Lieutenant">
             <Original>Lieutenant</Original>
             <English>Lieutenant</English>
             <Czech>Poručík</Czech>
@@ -37,7 +37,7 @@
             <Russian>Лейтенант</Russian>
             <Spanish>Teniente</Spanish>
         </Key>
-        <Key ID="STR_rank_Captain">
+        <Key ID="STR_OP183_rank_Captain">
             <Original>Captain</Original>
             <English>Captain</English>
             <Czech>Kapitán</Czech>
@@ -49,7 +49,7 @@
             <Russian>Капитан</Russian>
             <Spanish>Capitán</Spanish>
         </Key>
-        <Key ID="STR_rank_Major">
+        <Key ID="STR_OP183_rank_Major">
             <Original>Major</Original>
             <English>Major</English>
             <Czech>Major</Czech>
@@ -61,7 +61,7 @@
             <Russian>Майор</Russian>
             <Spanish>Destacado</Spanish>
         </Key>
-        <Key ID="STR_rank_Colonel">
+        <Key ID="STR_OP183_rank_Colonel">
             <Original>Colonel</Original>
             <English>Colonel</English>
             <Czech>Plukovník</Czech>

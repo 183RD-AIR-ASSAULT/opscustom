@@ -9,16 +9,16 @@
 
 #define VERSION_CONFIG version = MAJOR.MINOR; versionStr = QUOTE(MAJOR.MINOR.PATCH); versionAr[] = {MAJOR,MINOR,PATCH}
 
-#define AUTHOR Ghost
+#define AUTHOR YONV
 #define QAUTHOR QUOTE(AUTHOR)
-#define LOGO_PATH "\z\op183\addons\common\images\Ghost.paa"
+#define LOGO_PATH "\z\op183\addons\common\images\183ops_1024.paa"
 #define URL "https://arma.wiki"
-#define NAME Ghost
+#define NAME op183
 
 #define REQUIRED_VERSION 2.00
 
 #ifdef COMPONENT_BEAUTIFIED
-    #define COMPONENT_NAME QUOTE(Ghost - COMPONENT_BEAUTIFIED)
+    #define COMPONENT_NAME QUOTE(op183 - COMPONENT_BEAUTIFIED)
 #else
-    #define COMPONENT_NAME QUOTE(Ghost - COMPONENT)
+    #define COMPONENT_NAME QUOTE(op183 - COMPONENT)
 #endif

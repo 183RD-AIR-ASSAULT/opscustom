@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name=">
+<Project name="OP183">
     <Package name="Common">
-        <Key ID="STR_Common_DisplayName">
-            <English>Ghost - Common</English>
-            <Polish>Ghost - Common</Polish>
+        <Key ID="STR_OP183_Common_DisplayName">
+            <English>183rd  - Common</English>
+            <Polish>183rd  - Common</Polish>
         </Key>
-        <Key ID="STR_Common_Enabled">
+        <Key ID="STR_OP183_Common_Enabled">
             <English>Enable component</English>
             <Polish>Włącz komponent</Polish>
         </Key>
-        <Key ID="STR_Common_Enabled_Description">
+        <Key ID="STR_OP183_Common_Enabled_Description">
             <English>Controls whether this component is active.</English>
             <Polish>Pozwala kontrolować czy komponent jest włączony.</Polish>
         </Key>

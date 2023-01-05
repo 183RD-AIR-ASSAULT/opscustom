@@ -2,9 +2,9 @@
 class CfgMainMenuSpotlight {
 
     class GVAR(server1) {
-        text = "Ghost of Battle [GHOST] Operations";
+        text = "183rd Special Ops [183rd] Operations";
         textIsQuote = 0;
-        picture = QUOTE(\z\op183\addons\common\images\gobp2_512.paa);
+        picture = QUOTE(\z\op183\addons\common\images\183ops_512.paa);
         action = QUOTE(_this call (uiNamespace getVariable QQFUNC(join)));
         actionText = CSTRING(SpotlightHeader);
         condition = QUOTE(true);

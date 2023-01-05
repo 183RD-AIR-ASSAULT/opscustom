@@ -7,9 +7,9 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "main"
+            "op183_main"
         };
-        author = "Ghost";
+        author = "YonV";
         VERSION_CONFIG;
     };
 };

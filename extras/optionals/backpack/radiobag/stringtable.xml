@@ -2,18 +2,18 @@
 <Project name="Arma_Extended_Environment">
 
 	<!-- ####################################################################################### -->
-	<Package name="backpack">
+	<Package name="op183_backpack">
 
 		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<Container name="Backpacks_RadioBag">
 			<!-- =============================================================================== -->
-			<Key ID="STR_backpack_RadioBag_Title">
-				<English>ckpacks RadioBag</English>
+			<Key ID="STR_op183_backpack_RadioBag_Title">
+				<English>Op183ackpacks RadioBag</English>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_Author">
-				<English>Ghost-Team</English>
+			<Key ID="STR_op183_backpack_RadioBag_Author">
+				<English>183rd -Team</English>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_URL">
+			<Key ID="STR_op183_backpack_RadioBag_URL">
 				<English>https://purplesmoke.info</English>
 			</Key>
 			<!-- =============================================================================== -->
@@ -23,64 +23,64 @@
 		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<Container name="RadioBag">
 			<!-- =============================================================================== -->
-			<Key ID="STR_backpack_RadioBag_02_BLACK">
-				<English>[GHOST] Radio Pack (Black)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_BLACK">
+				<English>[183RD] Radio Pack (Black)</English>
 				<German>Funkrucksack (Schwarz)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_ou">
-				<English>[GHOST] Radio Pack (Urban)</English>
+			<Key ID="STR_op183_backpack_RadioBag_ou">
+				<English>[183RD] Radio Pack (Urban)</English>
 				<German>Funkrucksack (Urban)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_trop">
-				<English>[GHOST] Radio Pack (Tropic)</English>
+			<Key ID="STR_op183_backpack_RadioBag_trop">
+				<English>[183RD] Radio Pack (Tropic)</English>
 				<German>Funkrucksack (BW Fleck)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_COYOTE">
-				<English>[GHOST] Radio Pack (Coyote)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_COYOTE">
+				<English>[183RD] Radio Pack (Coyote)</English>
 				<German>Funkrucksack (Coyote)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_GREEN_DARK">
-				<English>[GHOST] Radio Pack (Green Dark)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_GREEN_DARK">
+				<English>[183RD] Radio Pack (Green Dark)</English>
 				<German>Funkrucksack (Grün Dunkel)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_GREEN_DGTL">
-				<English>[GHOST] Radio Pack (Green Digital)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_GREEN_DGTL">
+				<English>[183RD] Radio Pack (Green Digital)</English>
 				<German>Funkrucksack (Grün Digital)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_GREEN_RNGR">
-				<English>[GHOST] Radio Pack (Green Ranger)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_GREEN_RNGR">
+				<English>[183RD] Radio Pack (Green Ranger)</English>
 				<German>Funkrucksack (Grün Ranger)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_HEX_CAMO">
-				<English>[GHOST] Radio Pack (Hex Camo)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_HEX_CAMO">
+				<English>[183RD] Radio Pack (Hex Camo)</English>
 				<German>Funkrucksack (Hex Camo)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_HEX_GREEN">
-				<English>[GHOST] Radio Pack (Hex Green)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_HEX_GREEN">
+				<English>[183RD] Radio Pack (Hex Green)</English>
 				<German>Funkrucksack (Hex Grün)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_MARPAT_D">
-				<English>[GHOST] Radio Pack (MARPAT-D)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_MARPAT_D">
+				<English>[183RD] Radio Pack (MARPAT-D)</English>
 				<German>Funkrucksack (MARPAT-D)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_MARPAT_W">
-				<English>[GHOST] Radio Pack (MARPAT-W)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_MARPAT_W">
+				<English>[183RD] Radio Pack (MARPAT-W)</English>
 				<German>Funkrucksack (MARPAT-W)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_MTP">
-				<English>[GHOST] Radio Pack (MTP)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_MTP">
+				<English>[183RD] Radio Pack (MTP)</English>
 				<German>Funkrucksack (MTP)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_OCP">
-				<English>[GHOST] Radio Pack (OCP)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_OCP">
+				<English>[183RD] Radio Pack (OCP)</English>
 				<German>Funkrucksack (OCP)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_UCP">
-				<English>[GHOST] Radio Pack (UCP)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_UCP">
+				<English>[183RD] Radio Pack (UCP)</English>
 				<German>Funkrucksack (UCP)</German>
 			</Key>
-			<Key ID="STR_backpack_RadioBag_02_WDL">
-				<English>[GHOST] Radio Pack (Woodland)</English>
+			<Key ID="STR_op183_backpack_RadioBag_02_WDL">
+				<English>[183RD] Radio Pack (Woodland)</English>
 				<German>Funkrucksack (Waldtarn)</German>
 			</Key>
 			<!-- =============================================================================== -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name=">
+<Project name="OP183">
     <Package name="Role">
-        <Key ID="STR_role_medic">
+        <Key ID="STR_OP183_role_medic">
             <Original>Medic</Original>
             <English>Medic</English>
             <Czech>Zdravotník</Czech>
@@ -13,7 +13,7 @@
             <Russian>Медик</Russian>
             <Spanish>Médico</Spanish>
         </Key>
-        <Key ID="STR_role_srmedic">
+        <Key ID="STR_OP183_role_srmedic">
             <Original>Lead Medic, Doctor</Original>
             <English>Lead Medic, Doctor</English>
             <Czech>Vedoucí medik, doktor</Czech>
@@ -25,7 +25,7 @@
             <Russian>Ведущий медик, Врач</Russian>
             <Spanish>Médico principal, médico</Spanish>
         </Key>
-        <Key ID="STR_role_eng">
+        <Key ID="STR_OP183_role_eng">
             <Original>Engineer</Original>
             <English>Engineer</English>
             <Czech>Inženýr</Czech>
@@ -37,7 +37,7 @@
             <Russian>Инженер</Russian>
             <Spanish>Ingeniero</Spanish>
         </Key>
-        <Key ID="STR_role_sreng">
+        <Key ID="STR_OP183_role_sreng">
             <Original>Lead Engineer, EOD</Original>
             <English>Lead Engineer, EOD</English>
             <Czech>Vedoucí inženýr, EOD</Czech>
@@ -49,7 +49,7 @@
             <Russian>Ведущий инженер, EOD</Russian>
             <Spanish>Ingeniero Líder, EOD</Spanish>
         </Key>
-        <Key ID="STR_role_comm">
+        <Key ID="STR_OP183_role_comm">
             <Original>Communications</Original>
             <English>Communications</English>
             <Czech>Komunikace</Czech>
@@ -61,7 +61,7 @@
             <Russian>Связь</Russian>
             <Spanish>Comunicaciones</Spanish>
         </Key>
-        <Key ID="STR_role_srcomm">
+        <Key ID="STR_OP183_role_srcomm">
             <Original>Lead Communications, JFIRE</Original>
             <English>Lead Communications, JFIRE</English>
             <Czech>Olověná komunikace, JFIRE</Czech>

@@ -12,7 +12,7 @@
  * None
  *
  * Example:
- * [controller, "range", [target1, target2]] call shootingrange_fnc_checkConfig;
+ * [controller, "range", [target1, target2]] call op183_shootingrange_fnc_checkConfig;
  *
  * Public: No
  */

@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * _isDown = target call shootingrange_fnc_isTargetDown;
+ * _isDown = target call op183_shootingrange_fnc_isTargetDown;
  *
  * Public: No
  */

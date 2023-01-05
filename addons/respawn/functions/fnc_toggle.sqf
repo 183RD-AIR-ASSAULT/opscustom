@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [true] call respawn_fnc_toggle
+ * [true] call op183_respawn_fnc_toggle
  *
  * Public: No
  */

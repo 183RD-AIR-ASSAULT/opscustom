@@ -34,7 +34,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_02_BLACK";
+        displayName = "$STR_op183_backpack_RadioBag_02_BLACK";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_black_F_ca.paa";
@@ -82,7 +82,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_02_HEX_GREEN";
+        displayName = "$STR_op183_backpack_RadioBag_02_HEX_GREEN";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_hex_F_ca.paa";
@@ -98,7 +98,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_02_HEX_CAMO";
+        displayName = "$STR_op183_backpack_RadioBag_02_HEX_CAMO";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_hex_F_ca.paa";
@@ -114,7 +114,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_02_MTP";
+        displayName = "$STR_op183_backpack_RadioBag_02_MTP";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_mtp_F_ca.paa";
@@ -130,7 +130,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_trop";
+        displayName = "$STR_op183_backpack_RadioBag_trop";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_tropic_F_ca.paa";
@@ -147,7 +147,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_ou";
+        displayName = "$STR_op183_backpack_RadioBag_ou";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_oucamo_F_ca.paa";
@@ -164,7 +164,7 @@ class CfgVehicles {
         scope = 2;
         scopeArsenal = 2;
         scopeCurator = 2;
-        displayName = "$STR_backpack_RadioBag_02_WDL";
+        displayName = "$STR_op183_backpack_RadioBag_02_WDL";
         descriptionShort = "";
         editorPreview = "";
         picture = "\a3\Supplies_F_Enoch\Bags\data\ui\icon_B_RadioBag_01_wdl_F_ca.paa";

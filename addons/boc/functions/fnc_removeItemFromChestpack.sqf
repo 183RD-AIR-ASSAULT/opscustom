@@ -11,7 +11,7 @@
  * Nothing
  *
  * Example:
- * [player,"FirstAidKit",3] call boc_fnc_removeItemFromChestpack;
+ * [player,"FirstAidKit",3] call OP183_boc_fnc_removeItemFromChestpack;
  *
  * Public: No
  */

@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 /*
  * Author: veteran29
- * Join Ghost of Battle [GHOST] server from main menu.
+ * Join 183rd of Battle [183RD] server from main menu.
  * Based on article from KillZonekid
  *
  * Arguments:
@@ -26,7 +26,7 @@ if (isNil "CBA_fnc_log") then {
 // Disable Enchanced Multiplayer Menu for compatiblity with this script
 uiNamespace setVariable ["EMM_multiplayerMenu_enabled", false];
 
-INFO("Auto joining to Ghost of Battle ( Operations Server");
+INFO("Auto joining to 183rd of Battle (OP183) Operations Server");
 
 GVAR(serverAddress) = "38.103.170.18";
 GVAR(serverPort) = "2302";
