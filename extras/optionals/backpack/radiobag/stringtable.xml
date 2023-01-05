@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma_Extended_Environment">
+
+	<!-- ####################################################################################### -->
+	<Package name="backpack">
+
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<Container name="Backpacks_RadioBag">
+			<!-- =============================================================================== -->
+			<Key ID="STR_backpack_RadioBag_Title">
+				<English>ckpacks RadioBag</English>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_Author">
+				<English>Ghost-Team</English>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_URL">
+				<English>https://purplesmoke.info</English>
+			</Key>
+			<!-- =============================================================================== -->
+		</Container>
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<Container name="RadioBag">
+			<!-- =============================================================================== -->
+			<Key ID="STR_backpack_RadioBag_02_BLACK">
+				<English>[GHOST] Radio Pack (Black)</English>
+				<German>Funkrucksack (Schwarz)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_ou">
+				<English>[GHOST] Radio Pack (Urban)</English>
+				<German>Funkrucksack (Urban)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_trop">
+				<English>[GHOST] Radio Pack (Tropic)</English>
+				<German>Funkrucksack (BW Fleck)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_COYOTE">
+				<English>[GHOST] Radio Pack (Coyote)</English>
+				<German>Funkrucksack (Coyote)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_GREEN_DARK">
+				<English>[GHOST] Radio Pack (Green Dark)</English>
+				<German>Funkrucksack (Grün Dunkel)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_GREEN_DGTL">
+				<English>[GHOST] Radio Pack (Green Digital)</English>
+				<German>Funkrucksack (Grün Digital)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_GREEN_RNGR">
+				<English>[GHOST] Radio Pack (Green Ranger)</English>
+				<German>Funkrucksack (Grün Ranger)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_HEX_CAMO">
+				<English>[GHOST] Radio Pack (Hex Camo)</English>
+				<German>Funkrucksack (Hex Camo)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_HEX_GREEN">
+				<English>[GHOST] Radio Pack (Hex Green)</English>
+				<German>Funkrucksack (Hex Grün)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_MARPAT_D">
+				<English>[GHOST] Radio Pack (MARPAT-D)</English>
+				<German>Funkrucksack (MARPAT-D)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_MARPAT_W">
+				<English>[GHOST] Radio Pack (MARPAT-W)</English>
+				<German>Funkrucksack (MARPAT-W)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_MTP">
+				<English>[GHOST] Radio Pack (MTP)</English>
+				<German>Funkrucksack (MTP)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_OCP">
+				<English>[GHOST] Radio Pack (OCP)</English>
+				<German>Funkrucksack (OCP)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_UCP">
+				<English>[GHOST] Radio Pack (UCP)</English>
+				<German>Funkrucksack (UCP)</German>
+			</Key>
+			<Key ID="STR_backpack_RadioBag_02_WDL">
+				<English>[GHOST] Radio Pack (Woodland)</English>
+				<German>Funkrucksack (Waldtarn)</German>
+			</Key>
+			<!-- =============================================================================== -->
+		</Container>
+		<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+	</Package>
+	<!-- ####################################################################################### -->
+
+</Project>

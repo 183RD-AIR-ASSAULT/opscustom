@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OP183">
+    <Package name="Difficulty">
+        <Key ID="STR_OP183_Difficulty_DifficultyName">
+            <English>183rd Special Ops</English>
+        </Key>
+        <Key ID="STR_OP183_Difficulty_DifficultyDescription">
+            <English>Custom 183rd Special Ops settings.</English>
+            <Polish>Własne ustawienia 183rd Special Ops.</Polish>
+        </Key>
+    </Package>
+</Project>

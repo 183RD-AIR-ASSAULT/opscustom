@@ -1,0 +1,9 @@
+name = "Ghost";
+description = "183rd Special Ops Custom Mod";
+logo = "183ops_512.paa";
+logoOver = "183ops_glow.paa";
+tooltip = "Here you will return, you will not die in war";
+tooltipOwned = "Project Template Weee";
+overview = "183rd Special Ops Custom Mod";
+author = "YonV";
+overviewPicture = "gobp2_256.paa";
