@@ -20,8 +20,8 @@ class CfgVehicles {
         editorPreview="\A3\EditorPreviews_F\Data\CfgVehicles\Box_NATO_AmmoVeh_F.jpg";
         _generalMacro="Box_NATO_AmmoVeh_F";
         hiddenSelectionsTextures[]= {
-            "z\op183\addons\Equipment\data\ammobox_signs_caA.paa",
-            "z\op183\addons\Equipment\data\ammo_Op183_co.paa"
+            "z\op183\addons\Equipment\data\ammobox_signs_caA_183.paa",
+            "z\op183\addons\Equipment\data\ammo183A_co.paa"
         };
         class TransportMagazines {
         };
@@ -32,6 +32,7 @@ class CfgVehicles {
         transportAmmo=30000;
         supplyRadius=10;
     };
+/*
     class GVAR(arsenalW): NATO_Box_Base {
         scope = 2;
         scopeCurator = 2;
@@ -151,7 +152,7 @@ class CfgVehicles {
         };
         transportAmmo=30000;
         supplyRadius=10;
-    };
+    }; */
 
         // Rebreather
     class Vest_V_RebreatherB;

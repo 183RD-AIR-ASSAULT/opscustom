@@ -2,7 +2,6 @@
 
 class CfgPatches {
     class ADDON {
-
         author = QAUTHOR;
         name = COMPONENT_NAME;
         units[] = {
@@ -44,8 +43,10 @@ class CfgPatches {
             "A3_Weapons_F",
             "cba_jr",
             "ace_xm157",
-            "compat_usp",
-            "compat_vsm"
+            "aceax_compat_mcx",
+            "aceax_compat_milgp_headgear",
+            "aceax_compat_milgp_uniform",
+            "aceax_compat_milgp_uniform"
         };
         VERSION_CONFIG;
         authors[] = {"MitchJC"};
@@ -63,5 +64,3 @@ class CfgFunctions {
 #include "jr_classes.hpp"
 #include "RscInGameUI.hpp"
 #include "XtdGearModels.hpp"
-
-
